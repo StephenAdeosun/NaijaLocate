@@ -1,0 +1,62 @@
+[
+  {
+      "name": "North Central",
+      "type": "region",
+      "metadata": {
+          "population": 0,
+          "area": "",
+          "languages": [],
+          "landmarks": []
+      },
+      "lgas": [
+          {
+              "name": "Benue",
+              "metadata": {
+                  "population": 0,
+                  "area": "",
+                  "languages": [],
+                  "landmarks": []
+              }
+          },
+          {
+              "name": "Nasarawa",
+              "metadata": {
+                  "population": 0,
+                  "area": "",
+                  "languages": [],
+                  "landmarks": []
+              }
+          }
+      ]
+  },
+  {
+      "name": "North East",
+      "type": "region",
+      "metadata": {
+          "population": 0,
+          "area": "",
+          "languages": [],
+          "landmarks": []
+      },
+      "lgas": [
+          {
+              "name": "Adamawa",
+              "metadata": {
+                  "population": 0,
+                  "area": "",
+                  "languages": [],
+                  "landmarks": []
+              }
+          },
+          {
+              "name": "Borno",
+              "metadata": {
+                  "population": 0,
+                  "area": "",
+                  "languages": [],
+                  "landmarks": []
+              }
+          }
+      ]
+  }
+]

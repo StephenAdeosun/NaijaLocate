@@ -1,43 +1,54 @@
 import express, { Request, Response } from 'express';
-import nigeriaData from './nigeria-geography.json';
+import Place,{ PlaceDocument } from '../models/RegionModel'; // Import your Mongoose model
 
 const router = express.Router();
 
-// Define a route to get the geographic data
-router.get('/search', (req: Request, res: Response) => {
-    const { category, query } = req.query;
+// Define a route to get all regions, states, and LGAs
+router.get('/places', async (req: Request, res: Response) => {
+    try {
+        // Query the database to fetch all geographic data
+        const allPlaces = await Place.find(); // Exclude _id and __v fields from the response
 
-    if (!category || !query) {
-        return res.status(400).json({ message: 'Category and query parameters are required.' });
+        if (allPlaces.length === 0) {
+            // Return a 404 response if no geographic data is found
+            res.status(404).json({ message: 'No geographic data found' });
+            return;
+        }
+        // Return the retrieved data as the response
+        res.json(allPlaces);
+    } catch (error) {
+        // Handle any errors that occur during the database query
+        console.error('Error fetching geographic data:', error);
+        res.status(500).json({ message: 'Internal server error' });
     }
+});
 
-    // Perform the search based on the provided category and query
-    let searchResults;
-    if (category === 'region') {
-        searchResults = nigeriaData.filter((region: any) => region.name.toLowerCase().includes((query as string).toLowerCase()));
-    } else  if (category === 'state') {
-        searchResults = nigeriaData.flatMap(region => region.states
-            .filter(state => state.name.toLowerCase().includes((query as string).toLowerCase()))
-            .map((state: any) => ({
-                region: region.name,
-                state: state.name,
-                lgas: state.lgas.map((lga: any) => ({ name: lga.name,
-                    population: lga.population,
-                    area: lga.area,
-                    postalCode: lga.postalCode
-                
-                }))
-            }))
-        );
-    }
-     else if (category === 'lga') {
-        searchResults = nigeriaData.flatMap((region: any) => region.states.flatMap((state: any) => state.lgas.filter((lga: any) => lga.name.toLowerCase().includes((query as string).toLowerCase()))));
-    } else {
-        return res.status(400).json({ message: 'Invalid category parameter.' });
-    }
+// Define a route for searching regions, states, and LGAs
+router.get('/search', async (req: Request, res: Response) => {
+    try {
+        const { query } = req.query;
 
-    // Return the search results
-    res.json(searchResults);
+        if (!query) {
+            return res.status(400).json({ message: 'Query parameter is required.' });
+        }
+
+        let searchResults: PlaceDocument[] = [];
+
+        // Perform the search based on the query parameter
+        searchResults = await Place.find({
+            $or: [
+                { type: 'region', name: { $regex: new RegExp(query as string, 'i') } },
+                { type: 'state', name: { $regex: new RegExp(query as string, 'i') } },
+                { type: 'lga', name: { $regex: new RegExp(query as string, 'i') } }
+            ]
+        });
+
+        // Return the search results
+        res.json(searchResults);
+    } catch (error) {
+        console.error('Error occurred during search:', error);
+        res.status(500).json({ message: 'Internal server error.' });
+    }
 });
 
 export default router;

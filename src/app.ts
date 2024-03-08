@@ -28,6 +28,7 @@ connectDB().catch(err => console.error('Error connecting to MongoDB:', err));
 // Define routes
 app.use('/api/users/', userRoutes);
 app.use('/api/geography/', router);
+app.use('/api/', router);
 
 
 
