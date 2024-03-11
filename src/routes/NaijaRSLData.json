@@ -1,62 +1,77 @@
 [
-  {
-      "name": "North Central",
-      "type": "region",
-      "metadata": {
-          "population": 0,
-          "area": "",
-          "languages": [],
-          "landmarks": []
-      },
-      "lgas": [
-          {
-              "name": "Benue",
-              "metadata": {
-                  "population": 0,
-                  "area": "",
-                  "languages": [],
-                  "landmarks": []
-              }
-          },
-          {
-              "name": "Nasarawa",
-              "metadata": {
-                  "population": 0,
-                  "area": "",
-                  "languages": [],
-                  "landmarks": []
-              }
-          }
-      ]
-  },
-  {
-      "name": "North East",
-      "type": "region",
-      "metadata": {
-          "population": 0,
-          "area": "",
-          "languages": [],
-          "landmarks": []
-      },
-      "lgas": [
-          {
-              "name": "Adamawa",
-              "metadata": {
-                  "population": 0,
-                  "area": "",
-                  "languages": [],
-                  "landmarks": []
-              }
-          },
-          {
-              "name": "Borno",
-              "metadata": {
-                  "population": 0,
-                  "area": "",
-                  "languages": [],
-                  "landmarks": []
-              }
-          }
-      ]
-  }
+    {
+        "name": "North Central",
+        "states": [
+            {
+                "name": "Benue",
+                "lgas": [
+                    {
+                        "name": "Makurdi",
+                        "metadata": {
+                            "population": 400000,
+                            "area": "2500 square kilometers",
+                            "languages": ["Tiv", "Idoma"],
+                            "landmarks": ["Benue State University", "Federal Medical Centre"]
+                        },
+                        "landmarks": ["Landmark 1", "Landmark 2"]
+                    },
+                    {
+                        "name": "Nasarawa",
+                        "metadata": {
+                            "population": 300000,
+                            "area": "2000 square kilometers",
+                            "languages": ["Hausa", "Fulani"],
+                            "landmarks": ["Nasarawa State University", "Nasarawa Stadium"]
+                        },
+                        "landmarks": ["Landmark 3", "Landmark 4"]
+                    }
+                ]
+            },
+            {
+                "name": "mine",
+                "lgas": [
+                    {
+                        "name": "Makurdi",
+                        "metadata": {
+                            "population": 400000,
+                            "area": "2500 square kilometers",
+                            "languages": ["Tiv", "Idoma"],
+                            "landmarks": ["Benue State University", "Federal Medical Centre"]
+                        },
+                        "landmarks": ["Landmark 1", "Landmark 2"]
+                    },
+                    {
+                        "name": "Nasarawa",
+                        "metadata": {
+                            "population": 300000,
+                            "area": "2000 square kilometers",
+                            "languages": ["Hausa", "Fulani"],
+                            "landmarks": ["Nasarawa State University", "Nasarawa Stadium"]
+                        },
+                        "landmarks": ["Landmark 3", "Landmark 4"]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "name": "North East",
+        "states": [
+            {
+                "name": "Adamawa",
+                "lgas": [
+                    {
+                        "name": "Yola North",
+                        "metadata": {
+                            "population": 200000,
+                            "area": "1800 square kilometers",
+                            "languages": ["Hausa"],
+                            "landmarks": ["Yola Airport", "Adamawa Plaza"]
+                        },
+                        "landmarks": ["Landmark 5", "Landmark 6"]
+                    }
+                ]
+            }
+        ]
+    }
 ]

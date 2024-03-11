@@ -23,25 +23,37 @@ router.get('/places', async (req: Request, res: Response) => {
     }
 });
 
-// Define a route for searching regions, states, and LGAs
+/// Search API endpoint
 router.get('/search', async (req: Request, res: Response) => {
     try {
-        const { query } = req.query;
+        const { category, query } = req.query;
 
-        if (!query) {
-            return res.status(400).json({ message: 'Query parameter is required.' });
+        if (!category || !query) {
+            return res.status(400).json({ message: 'Category and query parameters are required.' });
         }
 
-        let searchResults: PlaceDocument[] = [];
+        let searchResults: any[] = [];
 
-        // Perform the search based on the query parameter
-        searchResults = await Place.find({
-            $or: [
-                { type: 'region', name: { $regex: new RegExp(query as string, 'i') } },
-                { type: 'state', name: { $regex: new RegExp(query as string, 'i') } },
-                { type: 'lga', name: { $regex: new RegExp(query as string, 'i') } }
-            ]
-        });
+        // Perform the search based on the provided category and query
+        if (category === 'region') {
+            searchResults = await Place.aggregate([
+                { $match: { name: { $regex: new RegExp(query as string, 'i') } } },
+                { $unwind: '$states' },
+                { $group: { _id: '$name', states: { $push: '$states.name' } } }
+            ]);
+        } else if (category === 'state') {
+            searchResults = await Place.aggregate([
+                { $unwind: '$states' },
+                { $match: { 'states.name': { $regex: new RegExp(query as string, 'i') } } },
+                { $group: { _id: '$name', states: { $push: '$states.name' } } }
+            ]);
+        } else if (category === 'lga') {
+            searchResults = await Place.find({
+                'states.lgas.name': { $regex: new RegExp(query as string, 'i') }
+            }, { 'states.lgas.$': 1 });
+        } else {
+            return res.status(400).json({ message: 'Invalid category parameter.' });
+        }
 
         // Return the search results
         res.json(searchResults);
@@ -50,5 +62,6 @@ router.get('/search', async (req: Request, res: Response) => {
         res.status(500).json({ message: 'Internal server error.' });
     }
 });
+
 
 export default router;
