@@ -27,30 +27,9 @@ connectDB().catch(err => console.error('Error connecting to MongoDB:', err));
 
 // Define routes
 app.use('/api/users/', userRoutes);
-app.use('/api/geography/', router);
 app.use('/api/', router);
 
 
-
-
-
-// app.get('/api/geography', (req: Request, res: Response) => {
-//     // Define the absolute path to the JSON file
-//     const filePath = path.resolve(__dirname, 'nigeria-geography.json');
-
-//     // Read the JSON file containing the geographic data
-//     fs.readFile(filePath, 'utf8', (err, data) => {
-//         if (err) {
-//             console.error('Error reading file:', err);
-//             res.status(500).json({ error: 'Internal Server Error' });
-//             return;
-//         }
-
-//         // Parse the JSON data and send it as the response
-//         const geographyData = JSON.parse(data);
-//         res.json(geographyData);
-//     });
-// });
 
 // Define a basic route
 app.get('/', (req: Request, res: Response) => {
