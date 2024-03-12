@@ -1,0 +1,28 @@
+[
+  {
+      "name": "North Central",
+      "states": [
+          {
+              "name": "Benue",
+              "lgas": ["Makurdi", "Guma"]
+          },
+          {
+              "name": "Nasarawa",
+              "lgas": ["Lafia", "Keffi"]
+          }
+      ]
+  },
+  {
+      "name": "North East",
+      "states": [
+          {
+              "name": "Adamawa",
+              "lgas": ["Yola North", "Yola South"]
+          },
+          {
+              "name": "Borno",
+              "lgas": ["Maiduguri", "Jere"]
+          }
+      ]
+  }
+]
