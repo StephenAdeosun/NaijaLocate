@@ -5,7 +5,7 @@ import { UserModel } from '../models/User';
 
 const JWT_SECRET = process.env.JWT_SECRET || 'your-default-secret-key';
 
-export const authenticate = async (req: Request, res: Response, next: NextFunction) => {
+export const authenticateUser = async (req: Request, res: Response, next: NextFunction) => {
     try {
         // Extract the API key from the request headers, query parameters, or body
         const apiKey = req.headers['x-api-key'] || req.query.apiKey || req.body.apiKey;

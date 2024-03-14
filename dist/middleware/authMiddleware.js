@@ -12,11 +12,11 @@ var __importDefault = (this && this.__importDefault) || function (mod) {
     return (mod && mod.__esModule) ? mod : { "default": mod };
 };
 Object.defineProperty(exports, "__esModule", { value: true });
-exports.authenticate = void 0;
+exports.authenticateUser = void 0;
 const jsonwebtoken_1 = __importDefault(require("jsonwebtoken"));
 const User_1 = require("../models/User");
 const JWT_SECRET = process.env.JWT_SECRET || 'your-default-secret-key';
-const authenticate = (req, res, next) => __awaiter(void 0, void 0, void 0, function* () {
+const authenticateUser = (req, res, next) => __awaiter(void 0, void 0, void 0, function* () {
     try {
         // Extract the API key from the request headers, query parameters, or body
         const apiKey = req.headers['x-api-key'] || req.query.apiKey || req.body.apiKey;
@@ -42,4 +42,4 @@ const authenticate = (req, res, next) => __awaiter(void 0, void 0, void 0, funct
         res.status(500).json({ message: 'Internal server error' });
     }
 });
-exports.authenticate = authenticate;
+exports.authenticateUser = authenticateUser;
