@@ -7,7 +7,7 @@ Object.defineProperty(exports, "__esModule", { value: true });
 const express_1 = __importDefault(require("express"));
 const body_parser_1 = __importDefault(require("body-parser"));
 const dotenv_1 = __importDefault(require("dotenv"));
-const cors_1 = __importDefault(require("cors"));
+// import cors from "cors";
 const database_1 = require("./services/database");
 const UserRoutes_1 = __importDefault(require("./routes/UserRoutes"));
 const placesRoute_1 = __importDefault(require("./routes/placesRoute"));
@@ -19,7 +19,7 @@ const app = (0, express_1.default)();
 // Use middleware to parse JSON bodies
 app.use(body_parser_1.default.json());
 // Enable CORS
-app.use((0, cors_1.default)());
+// app.use(cors());
 // Connect to the MongoDB database
 (0, database_1.connectDB)().catch((err) => console.error("Error connecting to MongoDB:", err));
 const limiter = (0, express_rate_limit_1.rateLimit)({
