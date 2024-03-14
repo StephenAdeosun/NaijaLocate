@@ -1,13 +1,11 @@
 // Import required modules
 import express, { Request, Response, NextFunction } from "express";
 import bodyParser from "body-parser";
-import mongoose from "mongoose";
+
 import dotenv from "dotenv";
-import cors from "cors";
+// import cors from "cors";
 import { connectDB } from "./services/database";
 import userRoutes from "./routes/UserRoutes";
-import fs from "fs";
-import path from "path";
 import router from "./routes/placesRoute";
 import { rateLimit } from "express-rate-limit";
 
@@ -21,7 +19,7 @@ const app = express();
 app.use(bodyParser.json());
 
 // Enable CORS
-app.use(cors());
+// app.use(cors());
 
 // Connect to the MongoDB database
 connectDB().catch((err) => console.error("Error connecting to MongoDB:", err));
