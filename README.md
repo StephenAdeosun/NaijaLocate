@@ -11,7 +11,10 @@ NaijaLocate is an open-source platform that enables users to explore and share i
 - **General APIs:** Locale provides APIs to retrieve all regions, states, and LGAs, enabling developers to access comprehensive geographic data.
 
 ## Installation Guide
-* Clone this repository from [here](https://github.com/StephenAdeosun/NaijaLocate.git).
+* Clone this repository by running 
+  ```
+     git clone https://github.com/StephenAdeosun/NaijaLocate.git
+  ```
 * Ensure you are working from the master branch, which is the most stable.
 * Run `npm install` to install all dependencies.
 * Configure the MongoDB connection in the application entry file (`index.ts`).
