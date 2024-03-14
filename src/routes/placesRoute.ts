@@ -14,11 +14,12 @@ import {
 
 const router = express.Router();
 
+// get all locations
+router.get("/locations", getLocations);
 // global middleware
 router.use(authenticateUser);
 
-// get all locations
-router.get("/locations", getLocations);
+
 
 // get all regions
 router.get("/regions", getRegions);

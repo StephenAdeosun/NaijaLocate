@@ -1,17 +1,54 @@
-Locale is a developer tool for anyone who needs to know Nigeria, geographically at least. Locale’s API shows you all of Nigeria’s regions, states, and local government areas(LGAs). Locale is looking to be a very useful tool for the thousands of businesses building for Nigeria’s 200M+ population size. 
+# NaijaLocate
 
-Requirements And Implementation Guide:
+## Introduction
+NaijaLocate is an open-source platform that enables users to explore and share information about different regions, including states, LGAs (Local Government Areas), and their metadata.
 
-– Authentication and Authorization: Locale as a developer should be protected and every developer who tries to access the API should have an API key to authenticate their request. Developers will have their API key generated for them when they sign up. They can only see this API key once.
+## Features
+- **Authentication and Authorization:** Locale requires developers to authenticate their requests using API keys generated upon signup. Each developer is issued a unique API key for secure access to the API.
+  
+- **Search Functionality:** Developers can search for information about Nigeria based on categories such as region, state, and local government area (LGA). Searches can be performed for regions with associated states or for states with associated LGAs. Locale returns detailed metadata for each region, state, or LGA in the search results.
 
-– Search: Locale allows developers to search for information about Nigeria based on the following categories; region, state, and local government area(LGAs). It is possible that developers would want to search for a region with the states under them but not the local government. This also applies to states with LGAs. Locale should also return all metadata associated with each region, state, or LGA on search.
+- **General APIs:** Locale provides APIs to retrieve all regions, states, and LGAs, enabling developers to access comprehensive geographic data.
 
-– General APIs: Developers on Locale should be able to get all regions, states, and LGA with an API(s)
+## Installation Guide
+* Clone this repository by running 
+  ```
+     git clone https://github.com/StephenAdeosun/NaijaLocate.git
+  ```
+* Ensure you are working from the master branch, which is the most stable.
+* Run `npm install` to install all dependencies.
+* Configure the MongoDB connection in the application entry file (`index.ts`).
+* Create a `.env` file in the project root folder and add your environment variables. Refer to `.env.sample` for guidance.
 
-Best practices:
+## Usage
+* Run `npm run dev` to start the application.
+* Access the API endpoints using Postman or any HTTP client.
 
-You are required to build with Nodejs (TypeScript).
-Don’t always hit the DB, use a cache layer.
-Ensure you implement rate-limiting
-Ensure you write unit and integration tests where possible
-It would be better if you could spec and document the API with OpenAPI using something like https://stoplight.io/
+## API Endpoints
+| HTTP Method | Endpoint           | Description                      |
+|-------------|--------------------|----------------------------------|
+| POST        | /api/signup        | Sign up a new user               |
+| GET         | /api/regions       | Get all regions                  |
+| GET         | /api/states        | Get all states                   |
+| GET         | /api/lgas          | Get all LGAs                     |
+| GET         | /api/states/:region| Get states by region             |
+| GET         | /api/lgas/:state   | Get LGAs by state                |
+| GET         | /api/metadata/:lga | Get metadata by LGA              |
+| GET         | /api/search        | Search geographic data           |
+| GET        | /api/locations        | Get all locations               |
+
+
+
+## Technologies Used
+* [Node.js](https://nodejs.org/)
+* [Typescript](https://www.typescriptlang.org/)
+* [Express.js](https://expressjs.com/)
+* [MongoDB](https://www.mongodb.com/)
+* [Mongoose ODM](https://mongoosejs.com/)
+
+## Authors
+* [Stephen Adeosun](https://github.com/StephenAdeosun)
+
+
+## License
+This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
