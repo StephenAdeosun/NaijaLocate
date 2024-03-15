@@ -3,6 +3,7 @@ var __importDefault = (this && this.__importDefault) || function (mod) {
     return (mod && mod.__esModule) ? mod : { "default": mod };
 };
 Object.defineProperty(exports, "__esModule", { value: true });
+exports.app = void 0;
 // Import required modules
 const express_1 = __importDefault(require("express"));
 const body_parser_1 = __importDefault(require("body-parser"));
@@ -16,6 +17,7 @@ const express_rate_limit_1 = require("express-rate-limit");
 dotenv_1.default.config();
 // Create an Express application
 const app = (0, express_1.default)();
+exports.app = app;
 // Use middleware to parse JSON bodies
 app.use(body_parser_1.default.json());
 // Enable CORS

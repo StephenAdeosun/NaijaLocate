@@ -1,0 +1,8413 @@
+[
+  {
+    "name": "North Central",
+    "states": [
+      {
+        "name": "Benue",
+        "lgas": [
+          {
+            "name": "Agatu",
+            "metadata": {
+              "population": 166900,
+              "area": "411 sq mi (1,065 km2)",
+              "languages": [
+                "Idoma"
+              ]
+            }
+          },
+          {
+            "name": "Apa",
+            "metadata": {
+              "population": 100000,
+              "area": "411 sq mi (1,065 km2)",
+              "languages": [
+                "Idoma"
+              ]
+            }
+          },
+          {
+            "name": "Ado",
+            "metadata": {
+              "population": 266200,
+              "area": "383.0 sq mi (991.9 km2)",
+              "languages": [
+                "Idoma"
+              ]
+            }
+          },
+          {
+            "name": "Buruku",
+            "metadata": {
+              "population": 203721,
+              "area": "1,246 km2 ",
+              "languages": [
+                "Tiv"
+              ]
+            }
+          },
+          {
+            "name": "Gboko",
+            "metadata": {
+              "population": 358936,
+              "area": "2,264 Sqr Km",
+              "languages": [
+                "Tiv"
+              ]
+            }
+          },
+          {
+            "name": "Guma",
+            "metadata": {
+              "population": 191599,
+              "area": "2,882 km2",
+              "languages": [
+                "Tiv"
+              ]
+            }
+          },
+          {
+            "name": "Gwer East",
+            "metadata": {
+              "population": 400000,
+              "area": "",
+              "languages": [
+                "Tiv"
+              ]
+            }
+          },
+          {
+            "name": "Gwer West",
+            "metadata": {
+              "population": 400000,
+              "area": "",
+              "languages": [
+                "Tiv"
+              ]
+            }
+          },
+          {
+            "name": "Konshisha",
+            "metadata": {
+              "population": 400000,
+              "area": "",
+              "languages": [
+                "Tiv"
+              ]
+            }
+          },
+          {
+            "name": "Kwande",
+            "metadata": {
+              "population": 400000,
+              "area": "",
+              "languages": [
+                "Tiv"
+              ]
+            }
+          },
+          {
+            "name": "Logo",
+            "metadata": {
+              "population": 400000,
+              "area": "",
+              "languages": [
+                "Tiv"
+              ]
+            }
+          },
+          {
+            "name": "Makurdi",
+            "metadata": {
+              "population": 400000,
+              "area": "",
+              "languages": [
+                "Tiv"
+              ]
+            }
+          },
+          {
+            "name": "Ogbadibo",
+            "metadata": {
+              "population": 400000,
+              "area": "",
+              "languages": [
+                "Idoma"
+              ]
+            }
+          },
+          {
+            "name": "Ohimini",
+            "metadata": {
+              "population": 400000,
+              "area": "",
+              "languages": [
+                "Idoma"
+              ]
+            }
+          },
+          {
+            "name": "Oju",
+            "metadata": {
+              "population": 400000,
+              "area": "",
+              "languages": [
+                "Igede",
+                "Orring"
+              ]
+            }
+          },
+          {
+            "name": "Obi",
+            "metadata": {
+              "population": 400000,
+              "area": "",
+              "languages": [
+                "Igede",
+                "Idoma"
+              ]
+            }
+          },
+          {
+            "name": "Ohimini",
+            "metadata": {
+              "population": 400000,
+              "area": "",
+              "languages": [
+                "Idoma"
+              ]
+            }
+          },
+          {
+            "name": "Okpokwu",
+            "metadata": {
+              "population": 400000,
+              "area": "",
+              "languages": [
+                "Idoma"
+              ]
+            }
+          },
+          {
+            "name": "Otukpo",
+            "metadata": {
+              "population": 400000,
+              "area": "",
+              "languages": [
+                "Idoma"
+              ]
+            }
+          },
+          {
+            "name": "Sankera",
+            "metadata": {
+              "population": 400000,
+              "area": "",
+              "languages": [
+                "Tiv"
+              ]
+            }
+          },
+          {
+            "name": "Tarka",
+            "metadata": {
+              "population": 400000,
+              "area": "",
+              "languages": [
+                "Tiv"
+              ]
+            }
+          },
+          {
+            "name": "Ukum",
+            "metadata": {
+              "population": 400000,
+              "area": "",
+              "languages": [
+                "Tiv"
+              ]
+            }
+          },
+          {
+            "name": "Ushongo",
+            "metadata": {
+              "population": 400000,
+              "area": "",
+              "languages": [
+                "Tiv"
+              ]
+            }
+          },
+          {
+            "name": "Vandeikya",
+            "metadata": {
+              "population": 400000,
+              "area": "",
+              "languages": [
+                "Tiv"
+              ]
+            }
+          },
+          {
+            "name": "Katsina-Ala",
+            "metadata": {
+              "population": 400000,
+              "area": "",
+              "languages": [
+                "Tiv"
+              ]
+            }
+          }
+        ]
+      },
+      {
+        "name": "Kogi",
+        "lgas": [
+          {
+            "name": "Adavi",
+            "metadata": {
+              "population": 400000,
+              "area": "",
+              "languages": [
+                "",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Ajaokuta",
+            "metadata": {
+              "population": 400000,
+              "area": "",
+              "languages": [
+                "",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Ankpa",
+            "metadata": {
+              "population": 400000,
+              "area": "",
+              "languages": [
+                "",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Bassa",
+            "metadata": {
+              "population": 400000,
+              "area": "",
+              "languages": [
+                "",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Dekina",
+            "metadata": {
+              "population": 400000,
+              "area": "",
+              "languages": [
+                "",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Ibaji",
+            "metadata": {
+              "population": 400000,
+              "area": "",
+              "languages": [
+                "",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Idah",
+            "metadata": {
+              "population": 400000,
+              "area": "",
+              "languages": [
+                "",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Igalamela-Odolu",
+            "metadata": {
+              "population": 400000,
+              "area": "",
+              "languages": [
+                "",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Ijumu",
+            "metadata": {
+              "population": 400000,
+              "area": "",
+              "languages": [
+                "",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Kabba/Bunu",
+            "metadata": {
+              "population": 400000,
+              "area": "",
+              "languages": [
+                "",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Kogi",
+            "metadata": {
+              "population": 400000,
+              "area": "",
+              "languages": [
+                "",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Lokoja",
+            "metadata": {
+              "population": 400000,
+              "area": "",
+              "languages": [
+                "",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Mopa-Muro",
+            "metadata": {
+              "population": 400000,
+              "area": "",
+              "languages": [
+                "",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Ofu",
+            "metadata": {
+              "population": 400000,
+              "area": "",
+              "languages": [
+                "",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Ogori/Magongo",
+            "metadata": {
+              "population": 400000,
+              "area": "",
+              "languages": [
+                "",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Okehi",
+            "metadata": {
+              "population": 400000,
+              "area": "",
+              "languages": [
+                "",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Okene",
+            "metadata": {
+              "population": 400000,
+              "area": "",
+              "languages": [
+                "",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Olamaboro",
+            "metadata": {
+              "population": 400000,
+              "area": "",
+              "languages": [
+                "",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Omala",
+            "metadata": {
+              "population": 400000,
+              "area": "",
+              "languages": [
+                "",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Yagba East",
+            "metadata": {
+              "population": 400000,
+              "area": "",
+              "languages": [
+                "",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Yagba West",
+            "metadata": {
+              "population": 400000,
+              "area": "",
+              "languages": [
+                "",
+                ""
+              ]
+            }
+          }
+        ]
+      },
+      {
+        "name": "Kwara",
+        "lgas": [
+          {
+            "name": "Asa",
+            "metadata": {
+              "population": 400000,
+              "area": "",
+              "languages": [
+                "",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Baruten",
+            "metadata": {
+              "population": 400000,
+              "area": "",
+              "languages": [
+                "",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Edu",
+            "metadata": {
+              "population": 400000,
+              "area": "",
+              "languages": [
+                "",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Ekiti",
+            "metadata": {
+              "population": 400000,
+              "area": "",
+              "languages": [
+                "",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Ifelodun",
+            "metadata": {
+              "population": 400000,
+              "area": "",
+              "languages": [
+                "",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Ilorin East",
+            "metadata": {
+              "population": 400000,
+              "area": "",
+              "languages": [
+                "",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Ilorin South",
+            "metadata": {
+              "population": 400000,
+              "area": "",
+              "languages": [
+                "",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Ilorin West",
+            "metadata": {
+              "population": 400000,
+              "area": "",
+              "languages": [
+                "",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Irepodun",
+            "metadata": {
+              "population": 400000,
+              "area": "",
+              "languages": [
+                "",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Isin",
+            "metadata": {
+              "population": 400000,
+              "area": "",
+              "languages": [
+                "",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Kaiama",
+            "metadata": {
+              "population": 400000,
+              "area": "",
+              "languages": [
+                "",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Moro",
+            "metadata": {
+              "population": 400000,
+              "area": "",
+              "languages": [
+                "",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Offa",
+            "metadata": {
+              "population": 400000,
+              "area": "",
+              "languages": [
+                "",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Oke Ero",
+            "metadata": {
+              "population": 400000,
+              "area": "",
+              "languages": [
+                "",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Oyun",
+            "metadata": {
+              "population": 400000,
+              "area": "",
+              "languages": [
+                "",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Pategi",
+            "metadata": {
+              "population": 400000,
+              "area": "",
+              "languages": [
+                "",
+                ""
+              ]
+            }
+          }
+        ]
+      },
+      {
+        "name": "Nasarawa",
+        "lgas": [
+          {
+            "name": "Akwanga",
+            "metadata": {
+              "population": 400000,
+              "area": "",
+              "languages": [
+                "",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Awe",
+            "metadata": {
+              "population": 400000,
+              "area": "",
+              "languages": [
+                "",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Doma",
+            "metadata": {
+              "population": 400000,
+              "area": "",
+              "languages": [
+                "",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Karu",
+            "metadata": {
+              "population": 400000,
+              "area": "",
+              "languages": [
+                "",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Keana",
+            "metadata": {
+              "population": 400000,
+              "area": "",
+              "languages": [
+                "",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Keffi",
+            "metadata": {
+              "population": 400000,
+              "area": "",
+              "languages": [
+                "",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Kokona",
+            "metadata": {
+              "population": 400000,
+              "area": "",
+              "languages": [
+                "",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Lafia",
+            "metadata": {
+              "population": 400000,
+              "area": "",
+              "languages": [
+                "",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Nasarawa",
+            "metadata": {
+              "population": 400000,
+              "area": "",
+              "languages": [
+                "",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Nasarawa Eggon",
+            "metadata": {
+              "population": 400000,
+              "area": "",
+              "languages": [
+                "",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Obi",
+            "metadata": {
+              "population": 400000,
+              "area": "",
+              "languages": [
+                "",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Toto",
+            "metadata": {
+              "population": 400000,
+              "area": "",
+              "languages": [
+                "",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Wamba",
+            "metadata": {
+              "population": 400000,
+              "area": "",
+              "languages": [
+                "",
+                ""
+              ]
+            }
+          }
+        ]
+      },
+      {
+        "name": "Niger",
+        "lgas": [
+          {
+            "name": "Agaie",
+            "metadata": {
+              "population": 400000,
+              "area": "",
+              "languages": [
+                "",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Agwara",
+            "metadata": {
+              "population": 400000,
+              "area": "",
+              "languages": [
+                "",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Bida",
+            "metadata": {
+              "population": 400000,
+              "area": "",
+              "languages": [
+                "",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Borgu",
+            "metadata": {
+              "population": 400000,
+              "area": "",
+              "languages": [
+                "",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Chanchaga",
+            "metadata": {
+              "population": 400000,
+              "area": "",
+              "languages": [
+                "",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Edati",
+            "metadata": {
+              "population": 400000,
+              "area": "",
+              "languages": [
+                "",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Gbako",
+            "metadata": {
+              "population": 400000,
+              "area": "",
+              "languages": [
+                "",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Gurara",
+            "metadata": {
+              "population": 400000,
+              "area": "",
+              "languages": [
+                "",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Kontagora",
+            "metadata": {
+              "population": 400000,
+              "area": "",
+              "languages": [
+                "",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Lapai",
+            "metadata": {
+              "population": 400000,
+              "area": "",
+              "languages": [
+                "",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Lavun",
+            "metadata": {
+              "population": 400000,
+              "area": "",
+              "languages": [
+                "",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Magama",
+            "metadata": {
+              "population": 400000,
+              "area": "",
+              "languages": [
+                "",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Mariga",
+            "metadata": {
+              "population": 400000,
+              "area": "",
+              "languages": [
+                "",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Mashegu",
+            "metadata": {
+              "population": 400000,
+              "area": "",
+              "languages": [
+                "",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Minna",
+            "metadata": {
+              "population": 400000,
+              "area": "",
+              "languages": [
+                "",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Mokwa",
+            "metadata": {
+              "population": 400000,
+              "area": "",
+              "languages": [
+                "",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Paikoro",
+            "metadata": {
+              "population": 400000,
+              "area": "",
+              "languages": [
+                "",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Rafi",
+            "metadata": {
+              "population": 400000,
+              "area": "",
+              "languages": [
+                "",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Shiroro",
+            "metadata": {
+              "population": 400000,
+              "area": "",
+              "languages": [
+                "",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Suleja",
+            "metadata": {
+              "population": 400000,
+              "area": "",
+              "languages": [
+                "",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Tafa",
+            "metadata": {
+              "population": 400000,
+              "area": "",
+              "languages": [
+                "",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Wushishi",
+            "metadata": {
+              "population": 400000,
+              "area": "",
+              "languages": [
+                "",
+                ""
+              ]
+            }
+          }
+        ]
+      },
+      {
+        "name": "Plateau",
+        "lgas": [
+          {
+            "name": "Barkin Ladi",
+            "metadata": {
+              "population": 400000,
+              "area": "",
+              "languages": [
+                "",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Bassa",
+            "metadata": {
+              "population": 400000,
+              "area": "",
+              "languages": [
+                "",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Bokkos",
+            "metadata": {
+              "population": 400000,
+              "area": "",
+              "languages": [
+                "",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Jos East",
+            "metadata": {
+              "population": 400000,
+              "area": "",
+              "languages": [
+                "",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Jos North",
+            "metadata": {
+              "population": 400000,
+              "area": "",
+              "languages": [
+                "",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Jos South",
+            "metadata": {
+              "population": 400000,
+              "area": "",
+              "languages": [
+                "",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Kanam",
+            "metadata": {
+              "population": 400000,
+              "area": "",
+              "languages": [
+                "",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Kanke",
+            "metadata": {
+              "population": 400000,
+              "area": "",
+              "languages": [
+                "",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Langtang North",
+            "metadata": {
+              "population": 400000,
+              "area": "",
+              "languages": [
+                "",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Langtang South",
+            "metadata": {
+              "population": 400000,
+              "area": "",
+              "languages": [
+                "",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Mangu",
+            "metadata": {
+              "population": 400000,
+              "area": "",
+              "languages": [
+                "",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Mikang",
+            "metadata": {
+              "population": 400000,
+              "area": "",
+              "languages": [
+                "",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Pankshin",
+            "metadata": {
+              "population": 400000,
+              "area": "",
+              "languages": [
+                "",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Qua'an Pan",
+            "metadata": {
+              "population": 400000,
+              "area": "",
+              "languages": [
+                "",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Riyom",
+            "metadata": {
+              "population": 400000,
+              "area": "",
+              "languages": [
+                "",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Shendam",
+            "metadata": {
+              "population": 400000,
+              "area": "",
+              "languages": [
+                "",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Wase",
+            "metadata": {
+              "population": 400000,
+              "area": "",
+              "languages": [
+                "",
+                ""
+              ]
+            }
+          }
+        ]
+      },
+      {
+        "name": "Federal Capital Territory (FCT)",
+        "lgas": [
+          {
+            "name": "Abaji",
+            "metadata": {
+              "population": 400000,
+              "area": "",
+              "languages": [
+                "",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Abuja Municipal Area Council (AMAC)",
+            "metadata": {
+              "population": 400000,
+              "area": "",
+              "languages": [
+                "",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Bwari",
+            "metadata": {
+              "population": 400000,
+              "area": "",
+              "languages": [
+                "",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Gwagwalada",
+            "metadata": {
+              "population": 400000,
+              "area": "",
+              "languages": [
+                "",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Kuje",
+            "metadata": {
+              "population": 400000,
+              "area": "",
+              "languages": [
+                "",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Kwali",
+            "metadata": {
+              "population": 400000,
+              "area": "",
+              "languages": [
+                "",
+                ""
+              ]
+            }
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "North East",
+    "states": [
+      {
+        "name": "Adamawa",
+        "lgas": [
+          {
+            "name": "Demsa",
+            "metadata": {
+              "population": 400000,
+              "area": "",
+              "languages": [
+                "",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Fufore",
+            "metadata": {
+              "population": 400000,
+              "area": "",
+              "languages": [
+                "",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Ganye",
+            "metadata": {
+              "population": 400000,
+              "area": "",
+              "languages": [
+                "",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Girei",
+            "metadata": {
+              "population": 400000,
+              "area": "",
+              "languages": [
+                "",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Gombi",
+            "metadata": {
+              "population": 400000,
+              "area": "",
+              "languages": [
+                "",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Guyuk",
+            "metadata": {
+              "population": 400000,
+              "area": "",
+              "languages": [
+                "",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Hong",
+            "metadata": {
+              "population": 400000,
+              "area": "",
+              "languages": [
+                "",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Lamurde",
+            "metadata": {
+              "population": 400000,
+              "area": "",
+              "languages": [
+                "",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Madagali",
+            "metadata": {
+              "population": 400000,
+              "area": "",
+              "languages": [
+                "",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Maiha",
+            "metadata": {
+              "population": 400000,
+              "area": "",
+              "languages": [
+                "",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Maiha",
+            "metadata": {
+              "population": 400000,
+              "area": "",
+              "languages": [
+                "",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Mayo-Belwa",
+            "metadata": {
+              "population": 400000,
+              "area": "",
+              "languages": [
+                "",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Michika",
+            "metadata": {
+              "population": 400000,
+              "area": "",
+              "languages": [
+                "",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Mubi North",
+            "metadata": {
+              "population": 400000,
+              "area": "",
+              "languages": [
+                "",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Mubi South",
+            "metadata": {
+              "population": 400000,
+              "area": "",
+              "languages": [
+                "",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Numan",
+            "metadata": {
+              "population": 400000,
+              "area": "",
+              "languages": [
+                "",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Shelleng",
+            "metadata": {
+              "population": 400000,
+              "area": "",
+              "languages": [
+                "",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Song",
+            "metadata": {
+              "population": 400000,
+              "area": "",
+              "languages": [
+                "",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Toungo",
+            "metadata": {
+              "population": 400000,
+              "area": "",
+              "languages": [
+                "",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Yola North",
+            "metadata": {
+              "population": 400000,
+              "area": "",
+              "languages": [
+                "",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Yola South",
+            "metadata": {
+              "population": 400000,
+              "area": "",
+              "languages": [
+                "",
+                ""
+              ]
+            }
+          }
+        ]
+      },
+      {
+        "name": "Bauchi",
+        "lgas": [
+          {
+            "name": "Alkaleri",
+            "metadata": {
+              "population": 400000,
+              "area": "",
+              "languages": [
+                "",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Bauchi",
+            "metadata": {
+              "population": 400000,
+              "area": "",
+              "languages": [
+                "",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Bogoro",
+            "metadata": {
+              "population": 400000,
+              "area": "",
+              "languages": [
+                "",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Dambam",
+            "metadata": {
+              "population": 400000,
+              "area": "",
+              "languages": [
+                "",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Darazo",
+            "metadata": {
+              "population": 400000,
+              "area": "",
+              "languages": [
+                "",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Dass",
+            "metadata": {
+              "population": 400000,
+              "area": "",
+              "languages": [
+                "",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Gamawa",
+            "metadata": {
+              "population": 400000,
+              "area": "",
+              "languages": [
+                "",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Ganjuwa",
+            "metadata": {
+              "population": 400000,
+              "area": "",
+              "languages": [
+                "",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Giade",
+            "metadata": {
+              "population": 400000,
+              "area": "",
+              "languages": [
+                "",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Itas/Gadau",
+            "metadata": {
+              "population": 400000,
+              "area": "",
+              "languages": [
+                "",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Jama'are",
+            "metadata": {
+              "population": 400000,
+              "area": "",
+              "languages": [
+                "",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Katagum",
+            "metadata": {
+              "population": 400000,
+              "area": "",
+              "languages": [
+                "",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Kirfi",
+            "metadata": {
+              "population": 400000,
+              "area": "",
+              "languages": [
+                "",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Miau",
+            "metadata": {
+              "population": 400000,
+              "area": "",
+              "languages": [
+                "",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Ningi",
+            "metadata": {
+              "population": 400000,
+              "area": "",
+              "languages": [
+                "",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Shira",
+            "metadata": {
+              "population": 400000,
+              "area": "",
+              "languages": [
+                "",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Tafawa Balewa",
+            "metadata": {
+              "population": 400000,
+              "area": "",
+              "languages": [
+                "",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Toro",
+            "metadata": {
+              "population": 400000,
+              "area": "",
+              "languages": [
+                "",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Warji",
+            "metadata": {
+              "population": 400000,
+              "area": "",
+              "languages": [
+                "",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Zaki",
+            "metadata": {
+              "population": 400000,
+              "area": "",
+              "languages": [
+                "",
+                ""
+              ]
+            }
+          }
+        ]
+      },
+      {
+        "name": "Borno",
+        "lgas": [
+          {
+            "name": "Abadam",
+            "metadata": {
+              "population": 400000,
+              "area": "",
+              "languages": [
+                "",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Askira-Uba",
+            "metadata": {
+              "population": 400000,
+              "area": "",
+              "languages": [
+                "",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Bama",
+            "metadata": {
+              "population": 400000,
+              "area": "",
+              "languages": [
+                "",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Bayo",
+            "metadata": {
+              "population": 400000,
+              "area": "",
+              "languages": [
+                "",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Biu",
+            "metadata": {
+              "population": 400000,
+              "area": "",
+              "languages": [
+                "",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Chibok",
+            "metadata": {
+              "population": 400000,
+              "area": "",
+              "languages": [
+                "",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Damboa",
+            "metadata": {
+              "population": 400000,
+              "area": "",
+              "languages": [
+                "",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Dikwa",
+            "metadata": {
+              "population": 400000,
+              "area": "",
+              "languages": [
+                "",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Gubio",
+            "metadata": {
+              "population": 400000,
+              "area": "",
+              "languages": [
+                "",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Guzamala",
+            "metadata": {
+              "population": 400000,
+              "area": "",
+              "languages": [
+                "",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Gwoza",
+            "metadata": {
+              "population": 400000,
+              "area": "",
+              "languages": [
+                "",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Hawul",
+            "metadata": {
+              "population": 400000,
+              "area": "",
+              "languages": [
+                "",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Jere",
+            "metadata": {
+              "population": 400000,
+              "area": "",
+              "languages": [
+                "",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Kaga",
+            "metadata": {
+              "population": 400000,
+              "area": "",
+              "languages": [
+                "",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Kala/Balge",
+            "metadata": {
+              "population": 400000,
+              "area": "",
+              "languages": [
+                "",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Konduga",
+            "metadata": {
+              "population": 400000,
+              "area": "",
+              "languages": [
+                "",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Kukawa",
+            "metadata": {
+              "population": 400000,
+              "area": "",
+              "languages": [
+                "",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Kwaya",
+            "metadata": {
+              "population": 400000,
+              "area": "",
+              "languages": [
+                "",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Kusar",
+            "metadata": {
+              "population": 400000,
+              "area": "",
+              "languages": [
+                "",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Mafa",
+            "metadata": {
+              "population": 400000,
+              "area": "",
+              "languages": [
+                "",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Magumeri",
+            "metadata": {
+              "population": 400000,
+              "area": "",
+              "languages": [
+                "",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Marte",
+            "metadata": {
+              "population": 400000,
+              "area": "",
+              "languages": [
+                "",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Mobbar",
+            "metadata": {
+              "population": 400000,
+              "area": "",
+              "languages": [
+                "",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Monguno",
+            "metadata": {
+              "population": 400000,
+              "area": "",
+              "languages": [
+                "",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Ngala",
+            "metadata": {
+              "population": 400000,
+              "area": "",
+              "languages": [
+                "",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Nganzai",
+            "metadata": {
+              "population": 400000,
+              "area": "",
+              "languages": [
+                "",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Shani",
+            "metadata": {
+              "population": 400000,
+              "area": "",
+              "languages": [
+                "",
+                ""
+              ]
+            }
+          }
+        ]
+      },
+      {
+        "name": "Gombe",
+        "lgas": [
+          {
+            "name": "Akko",
+            "metadata": {
+              "population": 400000,
+              "area": "",
+              "languages": [
+                "",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Balanga",
+            "metadata": {
+              "population": 400000,
+              "area": "",
+              "languages": [
+                "",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Billiri",
+            "metadata": {
+              "population": 400000,
+              "area": "",
+              "languages": [
+                "",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Dukku",
+            "metadata": {
+              "population": 400000,
+              "area": "",
+              "languages": [
+                "",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Funakaye",
+            "metadata": {
+              "population": 400000,
+              "area": "",
+              "languages": [
+                "",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Gombe",
+            "metadata": {
+              "population": 400000,
+              "area": "",
+              "languages": [
+                "",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Kaltungo",
+            "metadata": {
+              "population": 400000,
+              "area": "",
+              "languages": [
+                "",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Kwami",
+            "metadata": {
+              "population": 400000,
+              "area": "",
+              "languages": [
+                "",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Nafada/Bajoga",
+            "metadata": {
+              "population": 400000,
+              "area": "",
+              "languages": [
+                "",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Shongom",
+            "metadata": {
+              "population": 400000,
+              "area": "",
+              "languages": [
+                "",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Yamaltu Deba",
+            "metadata": {
+              "population": 400000,
+              "area": "",
+              "languages": [
+                "",
+                ""
+              ]
+            }
+          }
+        ]
+      },
+      {
+        "name": "Taraba",
+        "lgas": [
+          {
+            "name": "Ardo Kola ",
+            "metadata": {
+              "population": 400000,
+              "area": "",
+              "languages": [
+                "",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Bali ",
+            "metadata": {
+              "population": 400000,
+              "area": "",
+              "languages": [
+                "",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Donga ",
+            "metadata": {
+              "population": 400000,
+              "area": "",
+              "languages": [
+                "",
+                ""
+              ]
+            }
+          },
+          {
+            "name": " Gashaka",
+            "metadata": {
+              "population": 400000,
+              "area": "",
+              "languages": [
+                "",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Gassol ",
+            "metadata": {
+              "population": 400000,
+              "area": "",
+              "languages": [
+                "",
+                ""
+              ]
+            }
+          },
+          {
+            "name": " Ibi",
+            "metadata": {
+              "population": 400000,
+              "area": "",
+              "languages": [
+                "",
+                ""
+              ]
+            }
+          },
+          {
+            "name": " Jalingo",
+            "metadata": {
+              "population": 400000,
+              "area": "",
+              "languages": [
+                "",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Karim Lamido ",
+            "metadata": {
+              "population": 400000,
+              "area": "",
+              "languages": [
+                "",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Kurmi ",
+            "metadata": {
+              "population": 400000,
+              "area": "",
+              "languages": [
+                "",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Lau ",
+            "metadata": {
+              "population": 400000,
+              "area": "",
+              "languages": [
+                "",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Sardauna ",
+            "metadata": {
+              "population": 400000,
+              "area": "",
+              "languages": [
+                "",
+                ""
+              ]
+            }
+          },
+          {
+            "name": " Takum",
+            "metadata": {
+              "population": 400000,
+              "area": "",
+              "languages": [
+                "",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Ussa ",
+            "metadata": {
+              "population": 400000,
+              "area": "",
+              "languages": [
+                "",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Wukari ",
+            "metadata": {
+              "population": 400000,
+              "area": "",
+              "languages": [
+                "",
+                ""
+              ]
+            }
+          },
+          {
+            "name": " Yorro",
+            "metadata": {
+              "population": 400000,
+              "area": "",
+              "languages": [
+                "",
+                ""
+              ]
+            }
+          },
+          {
+            "name": " Zing",
+            "metadata": {
+              "population": 400000,
+              "area": "",
+              "languages": [
+                "",
+                ""
+              ]
+            }
+          }
+        ]
+      },
+      {
+        "name": "Yobe",
+        "lgas": [
+          {
+            "name": "Bade ",
+            "metadata": {
+              "population": 400000,
+              "area": "",
+              "languages": [
+                "",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Bursari ",
+            "metadata": {
+              "population": 400000,
+              "area": "",
+              "languages": [
+                "",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Damaturu ",
+            "metadata": {
+              "population": 400000,
+              "area": "",
+              "languages": [
+                "",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Fika ",
+            "metadata": {
+              "population": 400000,
+              "area": "",
+              "languages": [
+                "",
+                ""
+              ]
+            }
+          },
+          {
+            "name": " Fune",
+            "metadata": {
+              "population": 400000,
+              "area": "",
+              "languages": [
+                "",
+                ""
+              ]
+            }
+          },
+          {
+            "name": " Geidam",
+            "metadata": {
+              "population": 400000,
+              "area": "",
+              "languages": [
+                "",
+                ""
+              ]
+            }
+          },
+          {
+            "name": " Gujba",
+            "metadata": {
+              "population": 400000,
+              "area": "",
+              "languages": [
+                "",
+                ""
+              ]
+            }
+          },
+          {
+            "name": " Jakusko",
+            "metadata": {
+              "population": 400000,
+              "area": "",
+              "languages": [
+                "",
+                ""
+              ]
+            }
+          },
+          {
+            "name": " Karasuwa",
+            "metadata": {
+              "population": 400000,
+              "area": "",
+              "languages": [
+                "",
+                ""
+              ]
+            }
+          },
+          {
+            "name": " Machina",
+            "metadata": {
+              "population": 400000,
+              "area": "",
+              "languages": [
+                "",
+                ""
+              ]
+            }
+          },
+          {
+            "name": " Nangere",
+            "metadata": {
+              "population": 400000,
+              "area": "",
+              "languages": [
+                "",
+                ""
+              ]
+            }
+          },
+          {
+            "name": " Nguru",
+            "metadata": {
+              "population": 400000,
+              "area": "",
+              "languages": [
+                "",
+                ""
+              ]
+            }
+          },
+          {
+            "name": " Potiskum",
+            "metadata": {
+              "population": 400000,
+              "area": "",
+              "languages": [
+                "",
+                ""
+              ]
+            }
+          },
+          {
+            "name": " Tarmuwa",
+            "metadata": {
+              "population": 400000,
+              "area": "",
+              "languages": [
+                "",
+                ""
+              ]
+            }
+          },
+          {
+            "name": " Yunusari",
+            "metadata": {
+              "population": 400000,
+              "area": "",
+              "languages": [
+                "",
+                ""
+              ]
+            }
+          },
+          {
+            "name": " Yusufari",
+            "metadata": {
+              "population": 400000,
+              "area": "",
+              "languages": [
+                "",
+                ""
+              ]
+            }
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "North West",
+    "states": [
+      {
+        "name": "Jigawa",
+        "lgas": [
+          {
+            "name": " Babura",
+            "metadata": {
+              "population": 400000,
+              "area": "",
+              "languages": [
+                "",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Biriniwa ",
+            "metadata": {
+              "population": 400000,
+              "area": "",
+              "languages": [
+                "",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Birnin Kudu ",
+            "metadata": {
+              "population": 400000,
+              "area": "",
+              "languages": [
+                "",
+                ""
+              ]
+            }
+          },
+          {
+            "name": " Buji",
+            "metadata": {
+              "population": 400000,
+              "area": "",
+              "languages": [
+                "",
+                ""
+              ]
+            }
+          },
+          {
+            "name": " Dutse",
+            "metadata": {
+              "population": 400000,
+              "area": "",
+              "languages": [
+                "",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Gagarawa ",
+            "metadata": {
+              "population": 400000,
+              "area": "",
+              "languages": [
+                "",
+                ""
+              ]
+            }
+          },
+          {
+            "name": " Garki",
+            "metadata": {
+              "population": 400000,
+              "area": "",
+              "languages": [
+                "",
+                ""
+              ]
+            }
+          },
+          {
+            "name": " Gumel",
+            "metadata": {
+              "population": 400000,
+              "area": "",
+              "languages": [
+                "",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Guri ",
+            "metadata": {
+              "population": 400000,
+              "area": "",
+              "languages": [
+                "",
+                ""
+              ]
+            }
+          },
+          {
+            "name": " Gwaram",
+            "metadata": {
+              "population": 400000,
+              "area": "",
+              "languages": [
+                "",
+                ""
+              ]
+            }
+          },
+          {
+            "name": " Gwiwa",
+            "metadata": {
+              "population": 400000,
+              "area": "",
+              "languages": [
+                "",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Hadejia ",
+            "metadata": {
+              "population": 400000,
+              "area": "",
+              "languages": [
+                "",
+                ""
+              ]
+            }
+          },
+          {
+            "name": " Jahun",
+            "metadata": {
+              "population": 400000,
+              "area": "",
+              "languages": [
+                "",
+                ""
+              ]
+            }
+          },
+          {
+            "name": " Kafin Hausa",
+            "metadata": {
+              "population": 400000,
+              "area": "",
+              "languages": [
+                "",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Kazaure ",
+            "metadata": {
+              "population": 400000,
+              "area": "",
+              "languages": [
+                "",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Kiri Kasama ",
+            "metadata": {
+              "population": 400000,
+              "area": "",
+              "languages": [
+                "",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Kiyawa ",
+            "metadata": {
+              "population": 400000,
+              "area": "",
+              "languages": [
+                "",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Kaugama",
+            "metadata": {
+              "population": 400000,
+              "area": "",
+              "languages": [
+                "",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Maigatari",
+            "metadata": {
+              "population": 400000,
+              "area": "",
+              "languages": [
+                "",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Malam Madori ",
+            "metadata": {
+              "population": 400000,
+              "area": "",
+              "languages": [
+                "",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Miga ",
+            "metadata": {
+              "population": 400000,
+              "area": "",
+              "languages": [
+                "",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Ringim ",
+            "metadata": {
+              "population": 400000,
+              "area": "",
+              "languages": [
+                "",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Roni ",
+            "metadata": {
+              "population": 400000,
+              "area": "",
+              "languages": [
+                "",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Sule Tankakar ",
+            "metadata": {
+              "population": 400000,
+              "area": "",
+              "languages": [
+                "",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Taura ",
+            "metadata": {
+              "population": 400000,
+              "area": "",
+              "languages": [
+                "",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Yankwashi ",
+            "metadata": {
+              "population": 400000,
+              "area": "",
+              "languages": [
+                "",
+                ""
+              ]
+            }
+          }
+        ]
+      },
+      {
+        "name": "Sokoto",
+        "lgas": [
+          {
+            "name": "Bodinga ",
+            "metadata": {
+              "population": 400000,
+              "area": "",
+              "languages": [
+                "",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Dange Shuni ",
+            "metadata": {
+              "population": 400000,
+              "area": "",
+              "languages": [
+                "",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Gada ",
+            "metadata": {
+              "population": 400000,
+              "area": "",
+              "languages": [
+                "",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Goronyo ",
+            "metadata": {
+              "population": 400000,
+              "area": "",
+              "languages": [
+                "",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Gudu ",
+            "metadata": {
+              "population": 400000,
+              "area": "",
+              "languages": [
+                "",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Gwadabawa ",
+            "metadata": {
+              "population": 400000,
+              "area": "",
+              "languages": [
+                "",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Illela ",
+            "metadata": {
+              "population": 400000,
+              "area": "",
+              "languages": [
+                "",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Isa ",
+            "metadata": {
+              "population": 400000,
+              "area": "",
+              "languages": [
+                "",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Kebbe ",
+            "metadata": {
+              "population": 400000,
+              "area": "",
+              "languages": [
+                "",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Kware ",
+            "metadata": {
+              "population": 400000,
+              "area": "",
+              "languages": [
+                "",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Rabah ",
+            "metadata": {
+              "population": 400000,
+              "area": "",
+              "languages": [
+                "",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Sabon Birni ",
+            "metadata": {
+              "population": 400000,
+              "area": "",
+              "languages": [
+                "",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Shagari ",
+            "metadata": {
+              "population": 400000,
+              "area": "",
+              "languages": [
+                "",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Silame",
+            "metadata": {
+              "population": 400000,
+              "area": "",
+              "languages": [
+                "",
+                ""
+              ]
+            }
+          },
+          {
+            "name": " Sokoto North",
+            "metadata": {
+              "population": 400000,
+              "area": "",
+              "languages": [
+                "",
+                ""
+              ]
+            }
+          },
+          {
+            "name": " Sokoto South",
+            "metadata": {
+              "population": 400000,
+              "area": "",
+              "languages": [
+                "",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Tambuwal ",
+            "metadata": {
+              "population": 400000,
+              "area": "",
+              "languages": [
+                "",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Tangaza ",
+            "metadata": {
+              "population": 400000,
+              "area": "",
+              "languages": [
+                "",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Tureta ",
+            "metadata": {
+              "population": 400000,
+              "area": "",
+              "languages": [
+                "",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Wamako ",
+            "metadata": {
+              "population": 400000,
+              "area": "",
+              "languages": [
+                "",
+                ""
+              ]
+            }
+          },
+          {
+            "name": " Wurno",
+            "metadata": {
+              "population": 400000,
+              "area": "",
+              "languages": [
+                "",
+                ""
+              ]
+            }
+          },
+          {
+            "name": " Yabo",
+            "metadata": {
+              "population": 400000,
+              "area": "",
+              "languages": [
+                "",
+                ""
+              ]
+            }
+          }
+        ]
+      },
+      {
+        "name": "Kano",
+        "lgas": [
+          {
+            "name": "Albasu",
+            "metadata": {
+              "population": 400000,
+              "area": "",
+              "languages": [
+                "",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Bagwai",
+            "metadata": {
+              "population": 400000,
+              "area": "",
+              "languages": [
+                "",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Bebeji",
+            "metadata": {
+              "population": 400000,
+              "area": "",
+              "languages": [
+                "",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Bichi",
+            "metadata": {
+              "population": 400000,
+              "area": "",
+              "languages": [
+                "",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Bunkure",
+            "metadata": {
+              "population": 400000,
+              "area": "",
+              "languages": [
+                "",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Dala",
+            "metadata": {
+              "population": 400000,
+              "area": "",
+              "languages": [
+                "",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Dambatta",
+            "metadata": {
+              "population": 400000,
+              "area": "",
+              "languages": [
+                "",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Dawakin Kudu",
+            "metadata": {
+              "population": 400000,
+              "area": "",
+              "languages": [
+                "",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Dawakin Tofa",
+            "metadata": {
+              "population": 400000,
+              "area": "",
+              "languages": [
+                "",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Doguwa",
+            "metadata": {
+              "population": 400000,
+              "area": "",
+              "languages": [
+                "",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Fagge",
+            "metadata": {
+              "population": 400000,
+              "area": "",
+              "languages": [
+                "",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Gabasawa",
+            "metadata": {
+              "population": 400000,
+              "area": "",
+              "languages": [
+                "",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Garko",
+            "metadata": {
+              "population": 400000,
+              "area": "",
+              "languages": [
+                "",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Garun Mallam",
+            "metadata": {
+              "population": 400000,
+              "area": "",
+              "languages": [
+                "",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Gaya",
+            "metadata": {
+              "population": 400000,
+              "area": "",
+              "languages": [
+                "",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Gezawa",
+            "metadata": {
+              "population": 400000,
+              "area": "",
+              "languages": [
+                "",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Gwale",
+            "metadata": {
+              "population": 400000,
+              "area": "",
+              "languages": [
+                "",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Gwarzo",
+            "metadata": {
+              "population": 400000,
+              "area": "",
+              "languages": [
+                "",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Kabo",
+            "metadata": {
+              "population": 400000,
+              "area": "",
+              "languages": [
+                "",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Kano Municipal",
+            "metadata": {
+              "population": 400000,
+              "area": "",
+              "languages": [
+                "",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Karaye",
+            "metadata": {
+              "population": 400000,
+              "area": "",
+              "languages": [
+                "",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Kibiya",
+            "metadata": {
+              "population": 400000,
+              "area": "",
+              "languages": [
+                "",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Kiru",
+            "metadata": {
+              "population": 400000,
+              "area": "",
+              "languages": [
+                "",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Kumbotso",
+            "metadata": {
+              "population": 400000,
+              "area": "",
+              "languages": [
+                "",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Kunchi",
+            "metadata": {
+              "population": 400000,
+              "area": "",
+              "languages": [
+                "",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Kura",
+            "metadata": {
+              "population": 400000,
+              "area": "",
+              "languages": [
+                "",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Madobi",
+            "metadata": {
+              "population": 400000,
+              "area": "",
+              "languages": [
+                "",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Makoda",
+            "metadata": {
+              "population": 400000,
+              "area": "",
+              "languages": [
+                "",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Minjibir",
+            "metadata": {
+              "population": 400000,
+              "area": "",
+              "languages": [
+                "",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Nasarawa",
+            "metadata": {
+              "population": 400000,
+              "area": "",
+              "languages": [
+                "",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Rano",
+            "metadata": {
+              "population": 400000,
+              "area": "",
+              "languages": [
+                "",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Rimin Gado",
+            "metadata": {
+              "population": 400000,
+              "area": "",
+              "languages": [
+                "",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Rogo",
+            "metadata": {
+              "population": 400000,
+              "area": "",
+              "languages": [
+                "",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Shanono",
+            "metadata": {
+              "population": 400000,
+              "area": "",
+              "languages": [
+                "",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Sumaila",
+            "metadata": {
+              "population": 400000,
+              "area": "",
+              "languages": [
+                "",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Takai",
+            "metadata": {
+              "population": 400000,
+              "area": "",
+              "languages": [
+                "",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Tarauni",
+            "metadata": {
+              "population": 400000,
+              "area": "",
+              "languages": [
+                "",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Tofa",
+            "metadata": {
+              "population": 400000,
+              "area": "",
+              "languages": [
+                "",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Tsanyawa",
+            "metadata": {
+              "population": 400000,
+              "area": "",
+              "languages": [
+                "",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Tudun Wada",
+            "metadata": {
+              "population": 400000,
+              "area": "",
+              "languages": [
+                "",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Ungogo",
+            "metadata": {
+              "population": 400000,
+              "area": "",
+              "languages": [
+                "",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Warawa",
+            "metadata": {
+              "population": 400000,
+              "area": "",
+              "languages": [
+                "",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Wudil",
+            "metadata": {
+              "population": 400000,
+              "area": "",
+              "languages": [
+                "",
+                ""
+              ]
+            }
+          }
+        ]
+      },
+      {
+        "name": "Katsina",
+        "lgas": [
+          {
+            "name": "Batagarawa ",
+            "metadata": {
+              "population": 400000,
+              "area": "",
+              "languages": [
+                "",
+                ""
+              ]
+            }
+          },
+          {
+            "name": " Batsari",
+            "metadata": {
+              "population": 400000,
+              "area": "",
+              "languages": [
+                "",
+                ""
+              ]
+            }
+          },
+          {
+            "name": " Baure",
+            "metadata": {
+              "population": 400000,
+              "area": "",
+              "languages": [
+                "",
+                ""
+              ]
+            }
+          },
+          {
+            "name": " Bindawa",
+            "metadata": {
+              "population": 400000,
+              "area": "",
+              "languages": [
+                "",
+                ""
+              ]
+            }
+          },
+          {
+            "name": " Charanchi",
+            "metadata": {
+              "population": 400000,
+              "area": "",
+              "languages": [
+                "",
+                ""
+              ]
+            }
+          },
+          {
+            "name": " Dandume",
+            "metadata": {
+              "population": 400000,
+              "area": "",
+              "languages": [
+                "",
+                ""
+              ]
+            }
+          },
+          {
+            "name": " Danja",
+            "metadata": {
+              "population": 400000,
+              "area": "",
+              "languages": [
+                "",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Dan Musa ",
+            "metadata": {
+              "population": 400000,
+              "area": "",
+              "languages": [
+                "",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Daura ",
+            "metadata": {
+              "population": 400000,
+              "area": "",
+              "languages": [
+                "",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Dutsi ",
+            "metadata": {
+              "population": 400000,
+              "area": "",
+              "languages": [
+                "",
+                ""
+              ]
+            }
+          },
+          {
+            "name": " Dutsin Ma",
+            "metadata": {
+              "population": 400000,
+              "area": "",
+              "languages": [
+                "",
+                ""
+              ]
+            }
+          },
+          {
+            "name": " Faskari",
+            "metadata": {
+              "population": 400000,
+              "area": "",
+              "languages": [
+                "",
+                ""
+              ]
+            }
+          },
+          {
+            "name": " Funtua",
+            "metadata": {
+              "population": 400000,
+              "area": "",
+              "languages": [
+                "",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Ingawa ",
+            "metadata": {
+              "population": 400000,
+              "area": "",
+              "languages": [
+                "",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Jibia ",
+            "metadata": {
+              "population": 400000,
+              "area": "",
+              "languages": [
+                "",
+                ""
+              ]
+            }
+          },
+          {
+            "name": " Kafur",
+            "metadata": {
+              "population": 400000,
+              "area": "",
+              "languages": [
+                "",
+                ""
+              ]
+            }
+          },
+          {
+            "name": " Kaita",
+            "metadata": {
+              "population": 400000,
+              "area": "",
+              "languages": [
+                "",
+                ""
+              ]
+            }
+          },
+          {
+            "name": " Kankara",
+            "metadata": {
+              "population": 400000,
+              "area": "",
+              "languages": [
+                "",
+                ""
+              ]
+            }
+          },
+          {
+            "name": " Kankia",
+            "metadata": {
+              "population": 400000,
+              "area": "",
+              "languages": [
+                "",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Katsina ",
+            "metadata": {
+              "population": 400000,
+              "area": "",
+              "languages": [
+                "",
+                ""
+              ]
+            }
+          },
+          {
+            "name": " Kurfi",
+            "metadata": {
+              "population": 400000,
+              "area": "",
+              "languages": [
+                "",
+                ""
+              ]
+            }
+          },
+          {
+            "name": " Kusada",
+            "metadata": {
+              "population": 400000,
+              "area": "",
+              "languages": [
+                "",
+                ""
+              ]
+            }
+          },
+          {
+            "name": " Mai'Adua",
+            "metadata": {
+              "population": 400000,
+              "area": "",
+              "languages": [
+                "",
+                ""
+              ]
+            }
+          },
+          {
+            "name": " Malumfashi",
+            "metadata": {
+              "population": 400000,
+              "area": "",
+              "languages": [
+                "",
+                ""
+              ]
+            }
+          },
+          {
+            "name": " Mani",
+            "metadata": {
+              "population": 400000,
+              "area": "",
+              "languages": [
+                "",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Mashi ",
+            "metadata": {
+              "population": 400000,
+              "area": "",
+              "languages": [
+                "",
+                ""
+              ]
+            }
+          },
+          {
+            "name": " Matazu",
+            "metadata": {
+              "population": 400000,
+              "area": "",
+              "languages": [
+                "",
+                ""
+              ]
+            }
+          },
+          {
+            "name": " Musawa",
+            "metadata": {
+              "population": 400000,
+              "area": "",
+              "languages": [
+                "",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Rimi ",
+            "metadata": {
+              "population": 400000,
+              "area": "",
+              "languages": [
+                "",
+                ""
+              ]
+            }
+          },
+          {
+            "name": " Sabuwa",
+            "metadata": {
+              "population": 400000,
+              "area": "",
+              "languages": [
+                "",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Safana ",
+            "metadata": {
+              "population": 400000,
+              "area": "",
+              "languages": [
+                "",
+                ""
+              ]
+            }
+          },
+          {
+            "name": " Sandamu",
+            "metadata": {
+              "population": 400000,
+              "area": "",
+              "languages": [
+                "",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Zango ",
+            "metadata": {
+              "population": 400000,
+              "area": "",
+              "languages": [
+                "",
+                ""
+              ]
+            }
+          }
+        ]
+      },
+      {
+        "name": "Kebbi",
+        "lgas": [
+          {
+            "name": "Arewa Dandi ",
+            "metadata": {
+              "population": 400000,
+              "area": "",
+              "languages": [
+                "",
+                ""
+              ]
+            }
+          },
+          {
+            "name": " Argungu",
+            "metadata": {
+              "population": 400000,
+              "area": "",
+              "languages": [
+                "",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Augie ",
+            "metadata": {
+              "population": 400000,
+              "area": "",
+              "languages": [
+                "",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Bagudo ",
+            "metadata": {
+              "population": 400000,
+              "area": "",
+              "languages": [
+                "",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Birnin Kebbi ",
+            "metadata": {
+              "population": 400000,
+              "area": "",
+              "languages": [
+                "",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Bunza ",
+            "metadata": {
+              "population": 400000,
+              "area": "",
+              "languages": [
+                "",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Dandi ",
+            "metadata": {
+              "population": 400000,
+              "area": "",
+              "languages": [
+                "",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Fakai ",
+            "metadata": {
+              "population": 400000,
+              "area": "",
+              "languages": [
+                "",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Gwandu ",
+            "metadata": {
+              "population": 400000,
+              "area": "",
+              "languages": [
+                "",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Jega ",
+            "metadata": {
+              "population": 400000,
+              "area": "",
+              "languages": [
+                "",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Kalgo ",
+            "metadata": {
+              "population": 400000,
+              "area": "",
+              "languages": [
+                "",
+                ""
+              ]
+            }
+          },
+          {
+            "name": " Koko/Besse",
+            "metadata": {
+              "population": 400000,
+              "area": "",
+              "languages": [
+                "",
+                ""
+              ]
+            }
+          },
+          {
+            "name": " Maiyama",
+            "metadata": {
+              "population": 400000,
+              "area": "",
+              "languages": [
+                "",
+                ""
+              ]
+            }
+          },
+          {
+            "name": " Ngaski",
+            "metadata": {
+              "population": 400000,
+              "area": "",
+              "languages": [
+                "",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Sakaba ",
+            "metadata": {
+              "population": 400000,
+              "area": "",
+              "languages": [
+                "",
+                ""
+              ]
+            }
+          },
+          {
+            "name": " Shanga",
+            "metadata": {
+              "population": 400000,
+              "area": "",
+              "languages": [
+                "",
+                ""
+              ]
+            }
+          },
+          {
+            "name": " Suru",
+            "metadata": {
+              "population": 400000,
+              "area": "",
+              "languages": [
+                "",
+                ""
+              ]
+            }
+          },
+          {
+            "name": " Wasagu/Danko",
+            "metadata": {
+              "population": 400000,
+              "area": "",
+              "languages": [
+                "",
+                ""
+              ]
+            }
+          },
+          {
+            "name": " Yauri",
+            "metadata": {
+              "population": 400000,
+              "area": "",
+              "languages": [
+                "",
+                ""
+              ]
+            }
+          },
+          {
+            "name": " Zuru",
+            "metadata": {
+              "population": 400000,
+              "area": "",
+              "languages": [
+                "",
+                ""
+              ]
+            }
+          }
+        ]
+      },
+      {
+        "name": "Kaduna",
+        "lgas": [
+          {
+            "name": " Chikun",
+            "metadata": {
+              "population": 400000,
+              "area": "",
+              "languages": [
+                "",
+                ""
+              ]
+            }
+          },
+          {
+            "name": " Giwa",
+            "metadata": {
+              "population": 400000,
+              "area": "",
+              "languages": [
+                "",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Igabi ",
+            "metadata": {
+              "population": 400000,
+              "area": "",
+              "languages": [
+                "",
+                ""
+              ]
+            }
+          },
+          {
+            "name": " Ikara",
+            "metadata": {
+              "population": 400000,
+              "area": "",
+              "languages": [
+                "",
+                ""
+              ]
+            }
+          },
+          {
+            "name": " Ikara",
+            "metadata": {
+              "population": 400000,
+              "area": "",
+              "languages": [
+                "",
+                ""
+              ]
+            }
+          },
+          {
+            "name": " Jaba",
+            "metadata": {
+              "population": 400000,
+              "area": "",
+              "languages": [
+                "",
+                ""
+              ]
+            }
+          },
+          {
+            "name": " Jema'a",
+            "metadata": {
+              "population": 400000,
+              "area": "",
+              "languages": [
+                "",
+                ""
+              ]
+            }
+          },
+          {
+            "name": " Kachia",
+            "metadata": {
+              "population": 400000,
+              "area": "",
+              "languages": [
+                "",
+                ""
+              ]
+            }
+          },
+          {
+            "name": " Kaduna North",
+            "metadata": {
+              "population": 400000,
+              "area": "",
+              "languages": [
+                "",
+                ""
+              ]
+            }
+          },
+          {
+            "name": " Kaduna South",
+            "metadata": {
+              "population": 400000,
+              "area": "",
+              "languages": [
+                "",
+                ""
+              ]
+            }
+          },
+          {
+            "name": " Kagarko",
+            "metadata": {
+              "population": 400000,
+              "area": "",
+              "languages": [
+                "",
+                ""
+              ]
+            }
+          },
+          {
+            "name": " Kajuru",
+            "metadata": {
+              "population": 400000,
+              "area": "",
+              "languages": [
+                "",
+                ""
+              ]
+            }
+          },
+          {
+            "name": " Kauru",
+            "metadata": {
+              "population": 400000,
+              "area": "",
+              "languages": [
+                "",
+                ""
+              ]
+            }
+          },
+          {
+            "name": " Kubau",
+            "metadata": {
+              "population": 400000,
+              "area": "",
+              "languages": [
+                "",
+                ""
+              ]
+            }
+          },
+          {
+            "name": " Kudan",
+            "metadata": {
+              "population": 400000,
+              "area": "",
+              "languages": [
+                "",
+                ""
+              ]
+            }
+          },
+          {
+            "name": " Lere",
+            "metadata": {
+              "population": 400000,
+              "area": "",
+              "languages": [
+                "",
+                ""
+              ]
+            }
+          },
+          {
+            "name": " Makarfi",
+            "metadata": {
+              "population": 400000,
+              "area": "",
+              "languages": [
+                "",
+                ""
+              ]
+            }
+          },
+          {
+            "name": " Sabon Gari",
+            "metadata": {
+              "population": 400000,
+              "area": "",
+              "languages": [
+                "",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Sanga ",
+            "metadata": {
+              "population": 400000,
+              "area": "",
+              "languages": [
+                "",
+                ""
+              ]
+            }
+          },
+          {
+            "name": " Soba",
+            "metadata": {
+              "population": 400000,
+              "area": "",
+              "languages": [
+                "",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Zangon Kataf ",
+            "metadata": {
+              "population": 400000,
+              "area": "",
+              "languages": [
+                "",
+                ""
+              ]
+            }
+          },
+          {
+            "name": " Zaria",
+            "metadata": {
+              "population": 400000,
+              "area": "",
+              "languages": [
+                "",
+                ""
+              ]
+            }
+          }
+        ]
+      },
+      {
+        "name": "Zamfara",
+        "lgas": [
+          {
+            "name": " Birnin Magaji/Kiyaw",
+            "metadata": {
+              "population": 400000,
+              "area": "",
+              "languages": [
+                "",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Bukkuyum ",
+            "metadata": {
+              "population": 400000,
+              "area": "",
+              "languages": [
+                "",
+                ""
+              ]
+            }
+          },
+          {
+            "name": " Bungudu",
+            "metadata": {
+              "population": 400000,
+              "area": "",
+              "languages": [
+                "",
+                ""
+              ]
+            }
+          },
+          {
+            "name": " Gummi",
+            "metadata": {
+              "population": 400000,
+              "area": "",
+              "languages": [
+                "",
+                ""
+              ]
+            }
+          },
+          {
+            "name": " Gusau",
+            "metadata": {
+              "population": 400000,
+              "area": "",
+              "languages": [
+                "",
+                ""
+              ]
+            }
+          },
+          {
+            "name": " Kaura Namoda",
+            "metadata": {
+              "population": 400000,
+              "area": "",
+              "languages": [
+                "",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Maradun ",
+            "metadata": {
+              "population": 400000,
+              "area": "",
+              "languages": [
+                "",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Maru ",
+            "metadata": {
+              "population": 400000,
+              "area": "",
+              "languages": [
+                "",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Shinkafi ",
+            "metadata": {
+              "population": 400000,
+              "area": "",
+              "languages": [
+                "",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Talata Mafara ",
+            "metadata": {
+              "population": 400000,
+              "area": "",
+              "languages": [
+                "",
+                ""
+              ]
+            }
+          },
+          {
+            "name": " Chafe",
+            "metadata": {
+              "population": 400000,
+              "area": "",
+              "languages": [
+                "",
+                ""
+              ]
+            }
+          },
+          {
+            "name": " Zurmi",
+            "metadata": {
+              "population": 400000,
+              "area": "",
+              "languages": [
+                "",
+                ""
+              ]
+            }
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "South East",
+    "states": [
+      {
+        "name": "Abia",
+        "lgas": [
+          {
+            "name": "Aba South",
+            "metadata": {
+              "population": 400000,
+              "area": "",
+              "languages": [
+                "",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Arochukwu",
+            "metadata": {
+              "population": 400000,
+              "area": "",
+              "languages": [
+                "",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Bende",
+            "metadata": {
+              "population": 400000,
+              "area": "",
+              "languages": [
+                "",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Ikwuano",
+            "metadata": {
+              "population": 400000,
+              "area": "",
+              "languages": [
+                "",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Isiala Ngwa North",
+            "metadata": {
+              "population": 400000,
+              "area": "",
+              "languages": [
+                "",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Isiala Ngwa South",
+            "metadata": {
+              "population": 400000,
+              "area": "",
+              "languages": [
+                "",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Isuikwuato",
+            "metadata": {
+              "population": 400000,
+              "area": "",
+              "languages": [
+                "",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Obi Ngwa",
+            "metadata": {
+              "population": 400000,
+              "area": "",
+              "languages": [
+                "",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Ohafia",
+            "metadata": {
+              "population": 400000,
+              "area": "",
+              "languages": [
+                "",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Osisioma",
+            "metadata": {
+              "population": 400000,
+              "area": "",
+              "languages": [
+                "",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Ugwunagbo",
+            "metadata": {
+              "population": 400000,
+              "area": "",
+              "languages": [
+                "",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Ukwa East",
+            "metadata": {
+              "population": 400000,
+              "area": "",
+              "languages": [
+                "",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Ukwa West",
+            "metadata": {
+              "population": 400000,
+              "area": "",
+              "languages": [
+                "",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Umuahia North",
+            "metadata": {
+              "population": 400000,
+              "area": "",
+              "languages": [
+                "",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Umuahia South",
+            "metadata": {
+              "population": 400000,
+              "area": "",
+              "languages": [
+                "",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Umu Nneochi",
+            "metadata": {
+              "population": 400000,
+              "area": "",
+              "languages": [
+                "",
+                ""
+              ]
+            }
+          }
+        ]
+      },
+      {
+        "name": "Anambra",
+        "lgas": [
+          {
+            "name": "Anambra East",
+            "metadata": {
+              "population": 400000,
+              "area": "",
+              "languages": [
+                "",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Anambra West",
+            "metadata": {
+              "population": 400000,
+              "area": "",
+              "languages": [
+                "",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Anaocha",
+            "metadata": {
+              "population": 400000,
+              "area": "",
+              "languages": [
+                "",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Awka North",
+            "metadata": {
+              "population": 400000,
+              "area": "",
+              "languages": [
+                "",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Awka South",
+            "metadata": {
+              "population": 400000,
+              "area": "",
+              "languages": [
+                "",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Ayamelum",
+            "metadata": {
+              "population": 400000,
+              "area": "",
+              "languages": [
+                "",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Dunukofia",
+            "metadata": {
+              "population": 400000,
+              "area": "",
+              "languages": [
+                "",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Ekwusigo",
+            "metadata": {
+              "population": 400000,
+              "area": "",
+              "languages": [
+                "",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Idemili North",
+            "metadata": {
+              "population": 400000,
+              "area": "",
+              "languages": [
+                "",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Idemili South",
+            "metadata": {
+              "population": 400000,
+              "area": "",
+              "languages": [
+                "",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Ihiala",
+            "metadata": {
+              "population": 400000,
+              "area": "",
+              "languages": [
+                "",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Njikoka",
+            "metadata": {
+              "population": 400000,
+              "area": "",
+              "languages": [
+                "",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Nnewi North",
+            "metadata": {
+              "population": 400000,
+              "area": "",
+              "languages": [
+                "",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Nnewi South",
+            "metadata": {
+              "population": 400000,
+              "area": "",
+              "languages": [
+                "",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Ogbaru",
+            "metadata": {
+              "population": 400000,
+              "area": "",
+              "languages": [
+                "",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Onitsha North",
+            "metadata": {
+              "population": 400000,
+              "area": "",
+              "languages": [
+                "",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Onitsha South",
+            "metadata": {
+              "population": 400000,
+              "area": "",
+              "languages": [
+                "",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Orumba North",
+            "metadata": {
+              "population": 400000,
+              "area": "",
+              "languages": [
+                "",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Orumba South",
+            "metadata": {
+              "population": 400000,
+              "area": "",
+              "languages": [
+                "",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Oyi",
+            "metadata": {
+              "population": 400000,
+              "area": "",
+              "languages": [
+                "",
+                ""
+              ]
+            }
+          }
+        ]
+      },
+      {
+        "name": "Ebonyi",
+        "lgas": [
+          {
+            "name": "Afikpo North",
+            "metadata": {
+              "population": 400000,
+              "area": "",
+              "languages": [
+                "",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Afikpo South",
+            "metadata": {
+              "population": 400000,
+              "area": "",
+              "languages": [
+                "",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Ebonyi",
+            "metadata": {
+              "population": 400000,
+              "area": "",
+              "languages": [
+                "",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Ezza North",
+            "metadata": {
+              "population": 400000,
+              "area": "",
+              "languages": [
+                "",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Ezza South",
+            "metadata": {
+              "population": 400000,
+              "area": "",
+              "languages": [
+                "",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Ikwo",
+            "metadata": {
+              "population": 400000,
+              "area": "",
+              "languages": [
+                "",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Ishielu",
+            "metadata": {
+              "population": 400000,
+              "area": "",
+              "languages": [
+                "",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Ivo",
+            "metadata": {
+              "population": 400000,
+              "area": "",
+              "languages": [
+                "",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Izzi",
+            "metadata": {
+              "population": 400000,
+              "area": "",
+              "languages": [
+                "",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Ohaozara",
+            "metadata": {
+              "population": 400000,
+              "area": "",
+              "languages": [
+                "",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Ohaukwu",
+            "metadata": {
+              "population": 400000,
+              "area": "",
+              "languages": [
+                "",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Onicha",
+            "metadata": {
+              "population": 400000,
+              "area": "",
+              "languages": [
+                "",
+                ""
+              ]
+            }
+          }
+        ]
+      },
+      {
+        "name": "Enugu",
+        "lgas": [
+          {
+            "name": "Awgu",
+            "metadata": {
+              "population": 400000,
+              "area": "",
+              "languages": [
+                "",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Enugu East",
+            "metadata": {
+              "population": 400000,
+              "area": "",
+              "languages": [
+                "",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Enugu North",
+            "metadata": {
+              "population": 400000,
+              "area": "",
+              "languages": [
+                "",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Enugu South",
+            "metadata": {
+              "population": 400000,
+              "area": "",
+              "languages": [
+                "",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Ezeagu",
+            "metadata": {
+              "population": 400000,
+              "area": "",
+              "languages": [
+                "",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Igbo Etiti",
+            "metadata": {
+              "population": 400000,
+              "area": "",
+              "languages": [
+                "",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Igbo Eze North",
+            "metadata": {
+              "population": 400000,
+              "area": "",
+              "languages": [
+                "",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Igbo Eze South",
+            "metadata": {
+              "population": 400000,
+              "area": "",
+              "languages": [
+                "",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Isi Uzo",
+            "metadata": {
+              "population": 400000,
+              "area": "",
+              "languages": [
+                "",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Nkanu East",
+            "metadata": {
+              "population": 400000,
+              "area": "",
+              "languages": [
+                "",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Nkanu West",
+            "metadata": {
+              "population": 400000,
+              "area": "",
+              "languages": [
+                "",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Nsukka",
+            "metadata": {
+              "population": 400000,
+              "area": "",
+              "languages": [
+                "",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Oji River",
+            "metadata": {
+              "population": 400000,
+              "area": "",
+              "languages": [
+                "",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Udenu",
+            "metadata": {
+              "population": 400000,
+              "area": "",
+              "languages": [
+                "",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Udi",
+            "metadata": {
+              "population": 400000,
+              "area": "",
+              "languages": [
+                "",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Uzo Uwani",
+            "metadata": {
+              "population": 400000,
+              "area": "",
+              "languages": [
+                "",
+                ""
+              ]
+            }
+          }
+        ]
+      },
+      {
+        "name": "Imo",
+        "lgas": [
+          {
+            "name": "Ahiazu Mbaise",
+            "metadata": {
+              "population": 400000,
+              "area": "",
+              "languages": [
+                "",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Ehime Mbano",
+            "metadata": {
+              "population": 400000,
+              "area": "",
+              "languages": [
+                "",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Ezinihitte",
+            "metadata": {
+              "population": 400000,
+              "area": "",
+              "languages": [
+                "",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Ideato North",
+            "metadata": {
+              "population": 400000,
+              "area": "",
+              "languages": [
+                "",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Ideato South",
+            "metadata": {
+              "population": 400000,
+              "area": "",
+              "languages": [
+                "",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Ihitte/Uboma",
+            "metadata": {
+              "population": 400000,
+              "area": "",
+              "languages": [
+                "",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Ikeduru",
+            "metadata": {
+              "population": 400000,
+              "area": "",
+              "languages": [
+                "",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Isiala Mbano",
+            "metadata": {
+              "population": 400000,
+              "area": "",
+              "languages": [
+                "",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Isu",
+            "metadata": {
+              "population": 400000,
+              "area": "",
+              "languages": [
+                "",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Mbaitoli",
+            "metadata": {
+              "population": 400000,
+              "area": "",
+              "languages": [
+                "",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Ngor Okpala",
+            "metadata": {
+              "population": 400000,
+              "area": "",
+              "languages": [
+                "",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Njaba",
+            "metadata": {
+              "population": 400000,
+              "area": "",
+              "languages": [
+                "",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Nkwerre",
+            "metadata": {
+              "population": 400000,
+              "area": "",
+              "languages": [
+                "",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Nwangele",
+            "metadata": {
+              "population": 400000,
+              "area": "",
+              "languages": [
+                "",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Obowo",
+            "metadata": {
+              "population": 400000,
+              "area": "",
+              "languages": [
+                "",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Oguta",
+            "metadata": {
+              "population": 400000,
+              "area": "",
+              "languages": [
+                "",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Ohaji/Egbema",
+            "metadata": {
+              "population": 400000,
+              "area": "",
+              "languages": [
+                "",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Okigwe",
+            "metadata": {
+              "population": 400000,
+              "area": "",
+              "languages": [
+                "",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Orlu",
+            "metadata": {
+              "population": 400000,
+              "area": "",
+              "languages": [
+                "",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Orsu",
+            "metadata": {
+              "population": 400000,
+              "area": "",
+              "languages": [
+                "",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Oru East",
+            "metadata": {
+              "population": 400000,
+              "area": "",
+              "languages": [
+                "",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Oru West",
+            "metadata": {
+              "population": 400000,
+              "area": "",
+              "languages": [
+                "",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Owerri Municipal",
+            "metadata": {
+              "population": 400000,
+              "area": "",
+              "languages": [
+                "",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Owerri North",
+            "metadata": {
+              "population": 400000,
+              "area": "",
+              "languages": [
+                "",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Owerri West",
+            "metadata": {
+              "population": 400000,
+              "area": "",
+              "languages": [
+                "",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Unuimo",
+            "metadata": {
+              "population": 400000,
+              "area": "",
+              "languages": [
+                "",
+                ""
+              ]
+            }
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "South South",
+    "states": [
+      {
+        "name": " Akwa Ibom",
+        "lgas": [
+          {
+            "name": "Eastern Obolo",
+            "metadata": {
+              "population": 400000,
+              "area": "",
+              "languages": [
+                "",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Eket",
+            "metadata": {
+              "population": 400000,
+              "area": "",
+              "languages": [
+                "",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Esit Eket",
+            "metadata": {
+              "population": 400000,
+              "area": "",
+              "languages": [
+                "",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Essien Udim",
+            "metadata": {
+              "population": 400000,
+              "area": "",
+              "languages": [
+                "",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Etim Ekpo",
+            "metadata": {
+              "population": 400000,
+              "area": "",
+              "languages": [
+                "",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Etinan",
+            "metadata": {
+              "population": 400000,
+              "area": "",
+              "languages": [
+                "",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Ibeno",
+            "metadata": {
+              "population": 400000,
+              "area": "",
+              "languages": [
+                "",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Ibesikpo Asutan",
+            "metadata": {
+              "population": 400000,
+              "area": "",
+              "languages": [
+                "",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Ibiono-Ibom",
+            "metadata": {
+              "population": 400000,
+              "area": "",
+              "languages": [
+                "",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Ika",
+            "metadata": {
+              "population": 400000,
+              "area": "",
+              "languages": [
+                "",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Ikono",
+            "metadata": {
+              "population": 400000,
+              "area": "",
+              "languages": [
+                "",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Ikot Abasi",
+            "metadata": {
+              "population": 400000,
+              "area": "",
+              "languages": [
+                "",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Ikot Ekpene",
+            "metadata": {
+              "population": 400000,
+              "area": "",
+              "languages": [
+                "",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Ini",
+            "metadata": {
+              "population": 400000,
+              "area": "",
+              "languages": [
+                "",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Itu",
+            "metadata": {
+              "population": 400000,
+              "area": "",
+              "languages": [
+                "",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Mbo",
+            "metadata": {
+              "population": 400000,
+              "area": "",
+              "languages": [
+                "",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Mkpat-Enin",
+            "metadata": {
+              "population": 400000,
+              "area": "",
+              "languages": [
+                "",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Nsit-Atai",
+            "metadata": {
+              "population": 400000,
+              "area": "",
+              "languages": [
+                "",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Nsit-Ibom",
+            "metadata": {
+              "population": 400000,
+              "area": "",
+              "languages": [
+                "",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Nsit-Ubium",
+            "metadata": {
+              "population": 400000,
+              "area": "",
+              "languages": [
+                "",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Obot Akara",
+            "metadata": {
+              "population": 400000,
+              "area": "",
+              "languages": [
+                "",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Okobo",
+            "metadata": {
+              "population": 400000,
+              "area": "",
+              "languages": [
+                "",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Onna",
+            "metadata": {
+              "population": 400000,
+              "area": "",
+              "languages": [
+                "",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Oron",
+            "metadata": {
+              "population": 400000,
+              "area": "",
+              "languages": [
+                "",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Oruk Anam",
+            "metadata": {
+              "population": 400000,
+              "area": "",
+              "languages": [
+                "",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Udung-Uko",
+            "metadata": {
+              "population": 400000,
+              "area": "",
+              "languages": [
+                "",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Ukanafun",
+            "metadata": {
+              "population": 400000,
+              "area": "",
+              "languages": [
+                "",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Uruan",
+            "metadata": {
+              "population": 400000,
+              "area": "",
+              "languages": [
+                "",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Urue-Offong/Oruko",
+            "metadata": {
+              "population": 400000,
+              "area": "",
+              "languages": [
+                "",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Uyo",
+            "metadata": {
+              "population": 400000,
+              "area": "",
+              "languages": [
+                "",
+                ""
+              ]
+            }
+          }
+        ]
+      },
+      {
+        "name": "Bayelsa",
+        "lgas": [
+          {
+            "name": "Ekeremor",
+            "metadata": {
+              "population": 400000,
+              "area": "",
+              "languages": [
+                "",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Kolokuma/Opokuma",
+            "metadata": {
+              "population": 400000,
+              "area": "",
+              "languages": [
+                "",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Nembe",
+            "metadata": {
+              "population": 400000,
+              "area": "",
+              "languages": [
+                "",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Ogbia",
+            "metadata": {
+              "population": 400000,
+              "area": "",
+              "languages": [
+                "",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Sagbama",
+            "metadata": {
+              "population": 400000,
+              "area": "",
+              "languages": [
+                "",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Southern Ijaw",
+            "metadata": {
+              "population": 400000,
+              "area": "",
+              "languages": [
+                "",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Yenagoa",
+            "metadata": {
+              "population": 400000,
+              "area": "",
+              "languages": [
+                "",
+                ""
+              ]
+            }
+          }
+        ]
+      },
+      {
+        "name": "Cross River",
+        "lgas": [
+          {
+            "name": "Akamkpa",
+            "metadata": {
+              "population": 400000,
+              "area": "",
+              "languages": [
+                "",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Akpabuyo",
+            "metadata": {
+              "population": 400000,
+              "area": "",
+              "languages": [
+                "",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Bakassi",
+            "metadata": {
+              "population": 400000,
+              "area": "",
+              "languages": [
+                "",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Bekwarra",
+            "metadata": {
+              "population": 400000,
+              "area": "",
+              "languages": [
+                "",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Biase",
+            "metadata": {
+              "population": 400000,
+              "area": "",
+              "languages": [
+                "",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Boki",
+            "metadata": {
+              "population": 400000,
+              "area": "",
+              "languages": [
+                "",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Calabar Municipal",
+            "metadata": {
+              "population": 400000,
+              "area": "",
+              "languages": [
+                "",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Calabar South",
+            "metadata": {
+              "population": 400000,
+              "area": "",
+              "languages": [
+                "",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Etung",
+            "metadata": {
+              "population": 400000,
+              "area": "",
+              "languages": [
+                "",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Ikom",
+            "metadata": {
+              "population": 400000,
+              "area": "",
+              "languages": [
+                "",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Obanliku",
+            "metadata": {
+              "population": 400000,
+              "area": "",
+              "languages": [
+                "",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Obubra",
+            "metadata": {
+              "population": 400000,
+              "area": "",
+              "languages": [
+                "",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Obudu",
+            "metadata": {
+              "population": 400000,
+              "area": "",
+              "languages": [
+                "",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Odukpani",
+            "metadata": {
+              "population": 400000,
+              "area": "",
+              "languages": [
+                "",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Ogoja",
+            "metadata": {
+              "population": 400000,
+              "area": "",
+              "languages": [
+                "",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Yakuur",
+            "metadata": {
+              "population": 400000,
+              "area": "",
+              "languages": [
+                "",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Yala",
+            "metadata": {
+              "population": 400000,
+              "area": "",
+              "languages": [
+                "",
+                ""
+              ]
+            }
+          }
+        ]
+      },
+      {
+        "name": "Delta",
+        "lgas": [
+          {
+            "name": "Aniocha South",
+            "metadata": {
+              "population": 400000,
+              "area": "",
+              "languages": [
+                "",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Bomadi",
+            "metadata": {
+              "population": 400000,
+              "area": "",
+              "languages": [
+                "",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Burutu",
+            "metadata": {
+              "population": 400000,
+              "area": "",
+              "languages": [
+                "",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Ethiope East",
+            "metadata": {
+              "population": 400000,
+              "area": "",
+              "languages": [
+                "",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Ethiope West",
+            "metadata": {
+              "population": 400000,
+              "area": "",
+              "languages": [
+                "",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Ika North East",
+            "metadata": {
+              "population": 400000,
+              "area": "",
+              "languages": [
+                "",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Ika South",
+            "metadata": {
+              "population": 400000,
+              "area": "",
+              "languages": [
+                "",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Isoko North",
+            "metadata": {
+              "population": 400000,
+              "area": "",
+              "languages": [
+                "",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Isoko South",
+            "metadata": {
+              "population": 400000,
+              "area": "",
+              "languages": [
+                "",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Ndokwa East",
+            "metadata": {
+              "population": 400000,
+              "area": "",
+              "languages": [
+                "",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Ndokwa West",
+            "metadata": {
+              "population": 400000,
+              "area": "",
+              "languages": [
+                "",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Okpe",
+            "metadata": {
+              "population": 400000,
+              "area": "",
+              "languages": [
+                "",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Oshimili North",
+            "metadata": {
+              "population": 400000,
+              "area": "",
+              "languages": [
+                "",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Oshimili South",
+            "metadata": {
+              "population": 400000,
+              "area": "",
+              "languages": [
+                "",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Patani",
+            "metadata": {
+              "population": 400000,
+              "area": "",
+              "languages": [
+                "",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Sapele",
+            "metadata": {
+              "population": 400000,
+              "area": "",
+              "languages": [
+                "",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Udu",
+            "metadata": {
+              "population": 400000,
+              "area": "",
+              "languages": [
+                "",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Ughelli North",
+            "metadata": {
+              "population": 400000,
+              "area": "",
+              "languages": [
+                "",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Ughelli South",
+            "metadata": {
+              "population": 400000,
+              "area": "",
+              "languages": [
+                "",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Ukwuani",
+            "metadata": {
+              "population": 400000,
+              "area": "",
+              "languages": [
+                "",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Uvwie",
+            "metadata": {
+              "population": 400000,
+              "area": "",
+              "languages": [
+                "",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Warri North",
+            "metadata": {
+              "population": 400000,
+              "area": "",
+              "languages": [
+                "",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Warri South",
+            "metadata": {
+              "population": 400000,
+              "area": "",
+              "languages": [
+                "",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Warri South West",
+            "metadata": {
+              "population": 400000,
+              "area": "",
+              "languages": [
+                "",
+                ""
+              ]
+            }
+          }
+        ]
+      },
+      {
+        "name": "Edo",
+        "lgas": [
+          {
+            "name": "Egor",
+            "metadata": {
+              "population": 400000,
+              "area": "",
+              "languages": [
+                "",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Esan Central",
+            "metadata": {
+              "population": 400000,
+              "area": "",
+              "languages": [
+                "",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Esan North-East",
+            "metadata": {
+              "population": 400000,
+              "area": "",
+              "languages": [
+                "",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Esan South-East",
+            "metadata": {
+              "population": 400000,
+              "area": "",
+              "languages": [
+                "",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Esan West",
+            "metadata": {
+              "population": 400000,
+              "area": "",
+              "languages": [
+                "",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Etsako Central",
+            "metadata": {
+              "population": 400000,
+              "area": "",
+              "languages": [
+                "",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Etsako East",
+            "metadata": {
+              "population": 400000,
+              "area": "",
+              "languages": [
+                "",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Etsako West",
+            "metadata": {
+              "population": 400000,
+              "area": "",
+              "languages": [
+                "",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Igueben",
+            "metadata": {
+              "population": 400000,
+              "area": "",
+              "languages": [
+                "",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Ikpoba Okha",
+            "metadata": {
+              "population": 400000,
+              "area": "",
+              "languages": [
+                "",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Orhionmwon",
+            "metadata": {
+              "population": 400000,
+              "area": "",
+              "languages": [
+                "",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Oredo",
+            "metadata": {
+              "population": 400000,
+              "area": "",
+              "languages": [
+                "",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Ovia North-East",
+            "metadata": {
+              "population": 400000,
+              "area": "",
+              "languages": [
+                "",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Ovia South-West",
+            "metadata": {
+              "population": 400000,
+              "area": "",
+              "languages": [
+                "",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Owan East",
+            "metadata": {
+              "population": 400000,
+              "area": "",
+              "languages": [
+                "",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Owan West",
+            "metadata": {
+              "population": 400000,
+              "area": "",
+              "languages": [
+                "",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Uhunmwonde",
+            "metadata": {
+              "population": 400000,
+              "area": "",
+              "languages": [
+                "",
+                ""
+              ]
+            }
+          }
+        ]
+      },
+      {
+        "name": "Rivers",
+        "lgas": [
+          {
+            "name": "Ahoada East",
+            "metadata": {
+              "population": 400000,
+              "area": "",
+              "languages": [
+                "",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Ahoada West",
+            "metadata": {
+              "population": 400000,
+              "area": "",
+              "languages": [
+                "",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Akuku-Toru",
+            "metadata": {
+              "population": 400000,
+              "area": "",
+              "languages": [
+                "",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Andoni",
+            "metadata": {
+              "population": 400000,
+              "area": "",
+              "languages": [
+                "",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Asari-Toru",
+            "metadata": {
+              "population": 400000,
+              "area": "",
+              "languages": [
+                "",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Bonny",
+            "metadata": {
+              "population": 400000,
+              "area": "",
+              "languages": [
+                "",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Degema",
+            "metadata": {
+              "population": 400000,
+              "area": "",
+              "languages": [
+                "",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Eleme",
+            "metadata": {
+              "population": 400000,
+              "area": "",
+              "languages": [
+                "",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Emuoha",
+            "metadata": {
+              "population": 400000,
+              "area": "",
+              "languages": [
+                "",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Etche",
+            "metadata": {
+              "population": 400000,
+              "area": "",
+              "languages": [
+                "",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Gokana",
+            "metadata": {
+              "population": 400000,
+              "area": "",
+              "languages": [
+                "",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Ikwerre",
+            "metadata": {
+              "population": 400000,
+              "area": "",
+              "languages": [
+                "",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Khana",
+            "metadata": {
+              "population": 400000,
+              "area": "",
+              "languages": [
+                "",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Obio/Akpor",
+            "metadata": {
+              "population": 400000,
+              "area": "",
+              "languages": [
+                "",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Ogba/Egbema/Ndoni",
+            "metadata": {
+              "population": 400000,
+              "area": "",
+              "languages": [
+                "",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Ogu/Bolo",
+            "metadata": {
+              "population": 400000,
+              "area": "",
+              "languages": [
+                "",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Okrika",
+            "metadata": {
+              "population": 400000,
+              "area": "",
+              "languages": [
+                "",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Omuma",
+            "metadata": {
+              "population": 400000,
+              "area": "",
+              "languages": [
+                "",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Opobo/Nkoro",
+            "metadata": {
+              "population": 400000,
+              "area": "",
+              "languages": [
+                "",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Oyigbo",
+            "metadata": {
+              "population": 400000,
+              "area": "",
+              "languages": [
+                "",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Port Harcourt",
+            "metadata": {
+              "population": 400000,
+              "area": "",
+              "languages": [
+                "",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Tai",
+            "metadata": {
+              "population": 400000,
+              "area": "",
+              "languages": [
+                "",
+                ""
+              ]
+            }
+          }
+        ]
+      }
+    ]
+  },
+
+  
+  {
+    "name": "South West",
+    "states": [
+      {
+        "name": "Ekiti",
+        "lgas": [
+          {
+            "name": "Efon",
+            "metadata": {
+              "population": 400000,
+              "area": "",
+              "languages": [
+                "",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Ekiti East",
+            "metadata": {
+              "population": 400000,
+              "area": "",
+              "languages": [
+                "",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Ekiti South-West",
+            "metadata": {
+              "population": 400000,
+              "area": "",
+              "languages": [
+                "",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Ekiti West",
+            "metadata": {
+              "population": 400000,
+              "area": "",
+              "languages": [
+                "",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Emure",
+            "metadata": {
+              "population": 400000,
+              "area": "",
+              "languages": [
+                "",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Gbonyin",
+            "metadata": {
+              "population": 400000,
+              "area": "",
+              "languages": [
+                "",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Ido Osi",
+            "metadata": {
+              "population": 400000,
+              "area": "",
+              "languages": [
+                "",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Ijero",
+            "metadata": {
+              "population": 400000,
+              "area": "",
+              "languages": [
+                "",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Ikere",
+            "metadata": {
+              "population": 400000,
+              "area": "",
+              "languages": [
+                "",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "kole",
+            "metadata": {
+              "population": 400000,
+              "area": "",
+              "languages": [
+                "",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "lejemeje",
+            "metadata": {
+              "population": 400000,
+              "area": "",
+              "languages": [
+                "",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Irepodun/Ifelodun",
+            "metadata": {
+              "population": 400000,
+              "area": "",
+              "languages": [
+                "",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Ise/Orun",
+            "metadata": {
+              "population": 400000,
+              "area": "",
+              "languages": [
+                "",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Moba",
+            "metadata": {
+              "population": 400000,
+              "area": "",
+              "languages": [
+                "",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Oye",
+            "metadata": {
+              "population": 400000,
+              "area": "",
+              "languages": [
+                "",
+                ""
+              ]
+            }
+          }
+        ]
+      },
+      {
+        "name": "Lagos",
+        "lgas": [
+          {
+            "name": "Ajeromi-Ifelodun",
+            "metadata": {
+              "population": 400000,
+              "area": "",
+              "languages": [
+                "",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Alimosho",
+            "metadata": {
+              "population": 400000,
+              "area": "",
+              "languages": [
+                "",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Amuwo-Odofin",
+            "metadata": {
+              "population": 400000,
+              "area": "",
+              "languages": [
+                "",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Apapa",
+            "metadata": {
+              "population": 400000,
+              "area": "",
+              "languages": [
+                "",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Badagry",
+            "metadata": {
+              "population": 400000,
+              "area": "",
+              "languages": [
+                "",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Epe",
+            "metadata": {
+              "population": 400000,
+              "area": "",
+              "languages": [
+                "",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Eti Osa",
+            "metadata": {
+              "population": 400000,
+              "area": "",
+              "languages": [
+                "",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Ibeju-Lekki",
+            "metadata": {
+              "population": 400000,
+              "area": "",
+              "languages": [
+                "",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Ifako-Ijaiye",
+            "metadata": {
+              "population": 400000,
+              "area": "",
+              "languages": [
+                "",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Ikeja",
+            "metadata": {
+              "population": 400000,
+              "area": "",
+              "languages": [
+                "",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Ikorodu",
+            "metadata": {
+              "population": 400000,
+              "area": "",
+              "languages": [
+                "",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Kosofe",
+            "metadata": {
+              "population": 400000,
+              "area": "",
+              "languages": [
+                "",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Lagos Island",
+            "metadata": {
+              "population": 400000,
+              "area": "",
+              "languages": [
+                "",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Lagos Mainland",
+            "metadata": {
+              "population": 400000,
+              "area": "",
+              "languages": [
+                "",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Mushin",
+            "metadata": {
+              "population": 400000,
+              "area": "",
+              "languages": [
+                "",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Ojo",
+            "metadata": {
+              "population": 400000,
+              "area": "",
+              "languages": [
+                "",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Oshodi-Isolo",
+            "metadata": {
+              "population": 400000,
+              "area": "",
+              "languages": [
+                "",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Shomolu",
+            "metadata": {
+              "population": 400000,
+              "area": "",
+              "languages": [
+                "",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Surulere",
+            "metadata": {
+              "population": 400000,
+              "area": "",
+              "languages": [
+                "",
+                ""
+              ]
+            }
+          }
+        ]
+      },
+      {
+        "name": "Ogun",
+        "lgas": [
+          {
+            "name": "Abeokuta South",
+            "metadata": {
+              "population": 400000,
+              "area": "",
+              "languages": [
+                "",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Ado-Odo/Ota",
+            "metadata": {
+              "population": 400000,
+              "area": "",
+              "languages": [
+                "",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Egbado North",
+            "metadata": {
+              "population": 400000,
+              "area": "",
+              "languages": [
+                "",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Egbado South",
+            "metadata": {
+              "population": 400000,
+              "area": "",
+              "languages": [
+                "",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Ewekoro",
+            "metadata": {
+              "population": 400000,
+              "area": "",
+              "languages": [
+                "",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Ifo",
+            "metadata": {
+              "population": 400000,
+              "area": "",
+              "languages": [
+                "",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Ijebu East",
+            "metadata": {
+              "population": 400000,
+              "area": "",
+              "languages": [
+                "",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Ijebu North",
+            "metadata": {
+              "population": 400000,
+              "area": "",
+              "languages": [
+                "",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Ijebu North East",
+            "metadata": {
+              "population": 400000,
+              "area": "",
+              "languages": [
+                "",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Ijebu Ode",
+            "metadata": {
+              "population": 400000,
+              "area": "",
+              "languages": [
+                "",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Ikenne",
+            "metadata": {
+              "population": 400000,
+              "area": "",
+              "languages": [
+                "",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Imeko Afon",
+            "metadata": {
+              "population": 400000,
+              "area": "",
+              "languages": [
+                "",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Ipokia",
+            "metadata": {
+              "population": 400000,
+              "area": "",
+              "languages": [
+                "",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Obafemi Owode",
+            "metadata": {
+              "population": 400000,
+              "area": "",
+              "languages": [
+                "",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Odeda",
+            "metadata": {
+              "population": 400000,
+              "area": "",
+              "languages": [
+                "",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Odogbolu",
+            "metadata": {
+              "population": 400000,
+              "area": "",
+              "languages": [
+                "",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Ogun Waterside",
+            "metadata": {
+              "population": 400000,
+              "area": "",
+              "languages": [
+                "",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Remo North",
+            "metadata": {
+              "population": 400000,
+              "area": "",
+              "languages": [
+                "",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Shagamu",
+            "metadata": {
+              "population": 400000,
+              "area": "",
+              "languages": [
+                "",
+                ""
+              ]
+            }
+          }
+        ]
+      },
+      {
+        "name": "Ondo",
+        "lgas": [
+          {
+            "name": "Akoko North-West",
+            "metadata": {
+              "population": 400000,
+              "area": "",
+              "languages": [
+                "",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Akoko South-West",
+            "metadata": {
+              "population": 400000,
+              "area": "",
+              "languages": [
+                "",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Akoko South-East",
+            "metadata": {
+              "population": 400000,
+              "area": "",
+              "languages": [
+                "",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Akure North",
+            "metadata": {
+              "population": 400000,
+              "area": "",
+              "languages": [
+                "",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Akure South",
+            "metadata": {
+              "population": 400000,
+              "area": "",
+              "languages": [
+                "",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Ese Odo",
+            "metadata": {
+              "population": 400000,
+              "area": "",
+              "languages": [
+                "",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Idanre",
+            "metadata": {
+              "population": 400000,
+              "area": "",
+              "languages": [
+                "",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Ifedore",
+            "metadata": {
+              "population": 400000,
+              "area": "",
+              "languages": [
+                "",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Ilaje",
+            "metadata": {
+              "population": 400000,
+              "area": "",
+              "languages": [
+                "",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Ile Oluji/Okeigbo",
+            "metadata": {
+              "population": 400000,
+              "area": "",
+              "languages": [
+                "",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Irele",
+            "metadata": {
+              "population": 400000,
+              "area": "",
+              "languages": [
+                "",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Odigbo",
+            "metadata": {
+              "population": 400000,
+              "area": "",
+              "languages": [
+                "",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Okitipupa",
+            "metadata": {
+              "population": 400000,
+              "area": "",
+              "languages": [
+                "",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Ondo East",
+            "metadata": {
+              "population": 400000,
+              "area": "",
+              "languages": [
+                "",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Ondo West",
+            "metadata": {
+              "population": 400000,
+              "area": "",
+              "languages": [
+                "",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Ose",
+            "metadata": {
+              "population": 400000,
+              "area": "",
+              "languages": [
+                "",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Owo",
+            "metadata": {
+              "population": 400000,
+              "area": "",
+              "languages": [
+                "",
+                ""
+              ]
+            }
+          }
+        ]
+      },
+      {
+        "name": "Osun",
+        "lgas": [
+          {
+            "name": "Atakunmosa West",
+            "metadata": {
+              "population": 400000,
+              "area": "",
+              "languages": [
+                "",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Aiyedaade",
+            "metadata": {
+              "population": 400000,
+              "area": "",
+              "languages": [
+                "",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Aiyedire",
+            "metadata": {
+              "population": 400000,
+              "area": "",
+              "languages": [
+                "",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Boluwaduro",
+            "metadata": {
+              "population": 400000,
+              "area": "",
+              "languages": [
+                "",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Boripe",
+            "metadata": {
+              "population": 400000,
+              "area": "",
+              "languages": [
+                "",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Ede North",
+            "metadata": {
+              "population": 400000,
+              "area": "",
+              "languages": [
+                "",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Ede South",
+            "metadata": {
+              "population": 400000,
+              "area": "",
+              "languages": [
+                "",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Ife Central",
+            "metadata": {
+              "population": 400000,
+              "area": "",
+              "languages": [
+                "",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Ife East",
+            "metadata": {
+              "population": 400000,
+              "area": "",
+              "languages": [
+                "",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Ife North",
+            "metadata": {
+              "population": 400000,
+              "area": "",
+              "languages": [
+                "",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Ife South",
+            "metadata": {
+              "population": 400000,
+              "area": "",
+              "languages": [
+                "",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Egbedore",
+            "metadata": {
+              "population": 400000,
+              "area": "",
+              "languages": [
+                "",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Ejigbo",
+            "metadata": {
+              "population": 400000,
+              "area": "",
+              "languages": [
+                "",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Ifedayo",
+            "metadata": {
+              "population": 400000,
+              "area": "",
+              "languages": [
+                "",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Ifelodun",
+            "metadata": {
+              "population": 400000,
+              "area": "",
+              "languages": [
+                "",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Ila",
+            "metadata": {
+              "population": 400000,
+              "area": "",
+              "languages": [
+                "",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Ilesa East",
+            "metadata": {
+              "population": 400000,
+              "area": "",
+              "languages": [
+                "",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Ilesa West",
+            "metadata": {
+              "population": 400000,
+              "area": "",
+              "languages": [
+                "",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Irepodun",
+            "metadata": {
+              "population": 400000,
+              "area": "",
+              "languages": [
+                "",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Irewole",
+            "metadata": {
+              "population": 400000,
+              "area": "",
+              "languages": [
+                "",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Isokan",
+            "metadata": {
+              "population": 400000,
+              "area": "",
+              "languages": [
+                "",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Iwo",
+            "metadata": {
+              "population": 400000,
+              "area": "",
+              "languages": [
+                "",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Obokun",
+            "metadata": {
+              "population": 400000,
+              "area": "",
+              "languages": [
+                "",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Odo Otin",
+            "metadata": {
+              "population": 400000,
+              "area": "",
+              "languages": [
+                "",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Ola Oluwa",
+            "metadata": {
+              "population": 400000,
+              "area": "",
+              "languages": [
+                "",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Olorunda",
+            "metadata": {
+              "population": 400000,
+              "area": "",
+              "languages": [
+                "",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Oriade",
+            "metadata": {
+              "population": 400000,
+              "area": "",
+              "languages": [
+                "",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Orolu",
+            "metadata": {
+              "population": 400000,
+              "area": "",
+              "languages": [
+                "",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Osogbo",
+            "metadata": {
+              "population": 400000,
+              "area": "",
+              "languages": [
+                "",
+                ""
+              ]
+            }
+          }
+        ]
+      },
+      {
+        "name": "Oyo",
+        "lgas": [
+          {
+            "name": "Akinyele",
+            "metadata": {
+              "population": 400000,
+              "area": "",
+              "languages": [
+                "",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Atiba",
+            "metadata": {
+              "population": 400000,
+              "area": "",
+              "languages": [
+                "",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Atisbo",
+            "metadata": {
+              "population": 400000,
+              "area": "",
+              "languages": [
+                "",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Egbeda",
+            "metadata": {
+              "population": 400000,
+              "area": "",
+              "languages": [
+                "",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Ibadan North",
+            "metadata": {
+              "population": 400000,
+              "area": "",
+              "languages": [
+                "",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Ibadan North-East",
+            "metadata": {
+              "population": 400000,
+              "area": "",
+              "languages": [
+                "",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Ibadan North-West",
+            "metadata": {
+              "population": 400000,
+              "area": "",
+              "languages": [
+                "",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Ibadan South-East",
+            "metadata": {
+              "population": 400000,
+              "area": "",
+              "languages": [
+                "",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Ibadan South-West",
+            "metadata": {
+              "population": 400000,
+              "area": "",
+              "languages": [
+                "",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Ibarapa Central",
+            "metadata": {
+              "population": 400000,
+              "area": "",
+              "languages": [
+                "",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Ibarapa East",
+            "metadata": {
+              "population": 400000,
+              "area": "",
+              "languages": [
+                "",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Ibarapa North",
+            "metadata": {
+              "population": 400000,
+              "area": "",
+              "languages": [
+                "",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Ido",
+            "metadata": {
+              "population": 400000,
+              "area": "",
+              "languages": [
+                "",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Irepo",
+            "metadata": {
+              "population": 400000,
+              "area": "",
+              "languages": [
+                "",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Iseyin",
+            "metadata": {
+              "population": 400000,
+              "area": "",
+              "languages": [
+                "",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Itesiwaju",
+            "metadata": {
+              "population": 400000,
+              "area": "",
+              "languages": [
+                "",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Iwajowa",
+            "metadata": {
+              "population": 400000,
+              "area": "",
+              "languages": [
+                "",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Kajola",
+            "metadata": {
+              "population": 400000,
+              "area": "",
+              "languages": [
+                "",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Lagelu",
+            "metadata": {
+              "population": 400000,
+              "area": "",
+              "languages": [
+                "",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Ogbomosho North",
+            "metadata": {
+              "population": 400000,
+              "area": "",
+              "languages": [
+                "",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Ogbomosho South",
+            "metadata": {
+              "population": 400000,
+              "area": "",
+              "languages": [
+                "",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Ogo Oluwa",
+            "metadata": {
+              "population": 400000,
+              "area": "",
+              "languages": [
+                "",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Olorunsogo",
+            "metadata": {
+              "population": 400000,
+              "area": "",
+              "languages": [
+                "",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Oluyole",
+            "metadata": {
+              "population": 400000,
+              "area": "",
+              "languages": [
+                "",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Ona Ara",
+            "metadata": {
+              "population": 400000,
+              "area": "",
+              "languages": [
+                "",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Orelope",
+            "metadata": {
+              "population": 400000,
+              "area": "",
+              "languages": [
+                "",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Ori Ire",
+            "metadata": {
+              "population": 400000,
+              "area": "",
+              "languages": [
+                "",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Oyo",
+            "metadata": {
+              "population": 400000,
+              "area": "",
+              "languages": [
+                "",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Oyo East",
+            "metadata": {
+              "population": 400000,
+              "area": "",
+              "languages": [
+                "",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Saki East",
+            "metadata": {
+              "population": 400000,
+              "area": "",
+              "languages": [
+                "",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Saki West",
+            "metadata": {
+              "population": 400000,
+              "area": "",
+              "languages": [
+                "",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Surulere",
+            "metadata": {
+              "population": 400000,
+              "area": "",
+              "languages": [
+                "",
+                ""
+              ]
+            }
+          }
+        ]
+      }
+    ]
+  }
+]

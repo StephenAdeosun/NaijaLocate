@@ -7,10 +7,10 @@ const express_1 = __importDefault(require("express"));
 const authMiddleware_1 = require("../middleware/authMiddleware");
 const placesController_1 = require("../controllers/placesController");
 const router = express_1.default.Router();
-// global middleware
-router.use(authMiddleware_1.authenticateUser);
 // get all locations
 router.get("/locations", placesController_1.getLocations);
+// global middleware
+router.use(authMiddleware_1.authenticateUser);
 // get all regions
 router.get("/regions", placesController_1.getRegions);
 // get all states
