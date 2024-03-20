@@ -11,7 +11,9 @@ export const authenticateUser = async (req: Request, res: Response, next: NextFu
         const apiKey = req.headers['x-api-key'] || req.query.apiKey || req.body.apiKey;
 
         if (!apiKey) {
-            return res.status(401).json({ message: 'API key is missing' });
+            return res.status(401).json({
+                message: 'API key is required for authentication'
+            });
         }
 
         // Verify the API key

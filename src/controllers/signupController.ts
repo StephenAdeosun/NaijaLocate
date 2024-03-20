@@ -34,7 +34,10 @@ export const signUp = async (req: Request, res: Response) => {
         await newUser.save();
 
         // Return the API key to the client
-        res.status(201).json({ apiKey });
+        res.status(201).json({ 
+            message: 'User registered successfully',
+            apiKey
+         });
     } catch (error) {
         console.error('Sign-up error:', error);
         res.status(500).json({ message: 'Internal server error' });

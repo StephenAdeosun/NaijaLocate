@@ -12,22 +12,29 @@ const defaultTTL = (): number => {
 const getLocations = async (req: Request, res: Response) => {
   try {
     // Query the database to fetch all geographic data
-    const allPlaces = await Place.find(); 
+    const allPlaces = await Place.find();
 
     if (allPlaces.length === 0) {
       // Return a 404 response if no geographic data is found
-      res.status(404).json({ message: "No geographic data found" });
+      res.status(404).json({
+        message: "No geographic data found in the database.",
+      });
       return;
     }
     // Return the retrieved data as the response
-    res.json(allPlaces);
+    res.json({
+      message: "Geographic data fetched successfully",
+      data: allPlaces,
+    });
   } catch (error) {
     // Handle any errors that occur during the database query
     console.error("Error fetching geographic data:", error);
-    res.status(500).json({ message: "Internal server error" });
+    res.status(500).json({
+      status: "error",
+      message: "Internal server error.",
+    });
   }
-}
-
+};
 
 // get all regions
 const getRegions = async (req: Request, res: Response) => {
@@ -35,7 +42,10 @@ const getRegions = async (req: Request, res: Response) => {
     // Check if the data exists in the cache
     if (cache.has("regions")) {
       console.log("Data fetched from cache");
-      return res.json(cache.get("regions"));
+      return res.json({
+        message: "Regions fetched successfully from cache",
+        data: cache.get("regions"),
+      });
     }
 
     // Fetch the data from the database
@@ -48,10 +58,16 @@ const getRegions = async (req: Request, res: Response) => {
     cache.set("regions", regions, defaultTTL());
 
     // Return the data
-    res.json(regions);
+    res.json({
+      message: "Regions fetched successfully",
+      data: regions,
+    });
   } catch (error) {
     console.error("Error fetching regions:", error);
-    res.status(500).json({ message: "Internal server error." });
+    res.status(500).json({
+      status: "error",
+      message: "Internal server error.",
+    });
   }
 };
 
@@ -61,7 +77,10 @@ const getStates = async (req: Request, res: Response) => {
     // Check if the data exists in the cache
     if (cache.has("states")) {
       console.log("Data fetched from cache");
-      return res.json(cache.get("states"));
+      return res.json({
+        message: "States fetched successfully from cache",
+        data: cache.get("states"),
+      });
     }
 
     // Fetch the data from the database
@@ -81,7 +100,10 @@ const getStates = async (req: Request, res: Response) => {
     cache.set("states", states, defaultTTL());
 
     // Return the data
-    res.json(states);
+    res.json({
+      message: "States fetched successfully",
+      data: states,
+    });
   } catch (error) {
     console.error("Error fetching states:", error);
     res.status(500).json({ message: "Internal server error." });
@@ -94,7 +116,10 @@ const getLgas = async (req: Request, res: Response) => {
     // Check if the data exists in the cache
     if (cache.has("lgas")) {
       console.log("Data fetched from cache");
-      return res.json(cache.get("lgas"));
+      return res.json({
+        message: "LGAs fetched successfully from cache",
+        data: cache.get("lgas"),
+      });
     }
 
     // Fetch the data from the database
@@ -115,7 +140,10 @@ const getLgas = async (req: Request, res: Response) => {
     cache.set("lgas", lgas, defaultTTL());
 
     // Return the data
-    res.json(lgas);
+    res.json({
+      message: "LGAs fetched successfully",
+      data: lgas,
+    });
   } catch (error) {
     console.error("Error fetching lgas:", error);
     res.status(500).json({ message: "Internal server error." });
@@ -130,7 +158,10 @@ const getStatesByRegion = async (req: Request, res: Response) => {
     // Check if the data exists in the cache
     if (cache.has(region)) {
       console.log("Data fetched from cache");
-      return res.json(cache.get(region));
+      return res.json({
+        message: "States fetched successfully from cache",
+        data: cache.get(region),
+      });
     }
 
     // Fetch the data from the database
@@ -144,7 +175,10 @@ const getStatesByRegion = async (req: Request, res: Response) => {
     cache.set(region, states, defaultTTL());
 
     // Return the data
-    res.json(states);
+    res.json({
+      message: "States fetched successfully",
+      data: states,
+    });
   } catch (error) {
     console.error("Error fetching states by region:", error);
     res.status(500).json({ message: "Internal server error." });
@@ -159,7 +193,10 @@ const getLgasByState = async (req: Request, res: Response) => {
     // Check if the data exists in the cache
     if (cache.has(state)) {
       console.log("Data fetched from cache");
-      return res.json(cache.get(state));
+      return res.json({
+        message: "LGAs fetched successfully from cache",
+        data: cache.get(state),
+      });
     }
 
     // Fetch the data from the database
@@ -180,7 +217,10 @@ const getLgasByState = async (req: Request, res: Response) => {
     cache.set(state, lgas, defaultTTL());
 
     // Return the data
-    res.json(lgas);
+    res.json({
+      message: "LGAs fetched successfully",
+      data: lgas,
+    });
   } catch (error) {
     console.error("Error fetching lgas by state:", error);
     res.status(500).json({ message: "Internal server error." });
@@ -195,7 +235,10 @@ const getMetadataByLga = async (req: Request, res: Response) => {
     // Check if the data exists in the cache
     if (cache.has(lga)) {
       console.log("Data fetched from cache");
-      return res.json(cache.get(lga));
+      return res.json({
+        message: "Metadata fetched successfully from cache",
+        data: cache.get(lga),
+      });
     }
 
     // Fetch the data from the database
@@ -210,7 +253,10 @@ const getMetadataByLga = async (req: Request, res: Response) => {
     cache.set(lga, metadata, defaultTTL());
 
     // Return the data
-    res.json(metadata);
+    res.json({
+      message: "Metadata fetched successfully",
+      data: metadata,
+    });
   } catch (error) {
     console.error("Error fetching metadata by lga:", error);
     res.status(500).json({ message: "Internal server error." });
@@ -295,7 +341,10 @@ const search = async (req: Request, res: Response) => {
       });
     }
     // Return the search results
-    res.json(searchResults);
+    res.json({
+      message: `Search results for '${query}' in the '${category}' category`,
+      data: searchResults,
+    });
   } catch (error) {
     console.error("Error occurred during search:", error);
     res.status(500).json({ message: "Internal server error." });
