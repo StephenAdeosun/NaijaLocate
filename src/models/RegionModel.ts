@@ -3,14 +3,11 @@ import mongoose, { Document } from 'mongoose';
 interface Metadata {
     population: number;
     area: string;
-    languages: string[];
-    landmarks: string[];
 }
 
 interface LGA {
     name: string;
     metadata: Metadata;
-    landmarks: string[];
 }
 
 interface State {
@@ -32,10 +29,8 @@ const placeSchema = new mongoose.Schema({
             metadata: {
                 population: { type: Number, required: true },
                 area: { type: String, required: true },
-                languages: [{ type: String, required: true }],
-                landmarks: [{ type: String, required: true }]
+                
             },
-            landmarks: [{ type: String, required: true }]
         }]
     }]
 });
